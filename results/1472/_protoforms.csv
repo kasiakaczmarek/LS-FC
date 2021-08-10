@@ -1,0 +1,961 @@
+protoform;DoT;Type;id
+Most calls in mania are spectrum_low compared to the state of euthymia.;1.0;1.0;only spectralflux - Quartiles
+Most calls in mania are loudness_low compared to the state of euthymia.;0.041004441752943904;1.0;only spectralflux - Quartiles
+Most calls in mania are tone_low compared to the state of euthymia.;0.0;1.0;only spectralflux - Quartiles
+Most calls in mania are quality_low compared to the state of euthymia.;1.0;1.0;only spectralflux - Quartiles
+Minority of calls in mania are spectrum_low compared to the state of euthymia.;0.0;1.0;only spectralflux - Quartiles
+Minority of calls in mania are loudness_low compared to the state of euthymia.;0.17539733494823362;1.0;only spectralflux - Quartiles
+Minority of calls in mania are tone_low compared to the state of euthymia.;0.4437083348926958;1.0;only spectralflux - Quartiles
+Minority of calls in mania are quality_low compared to the state of euthymia.;0.0;1.0;only spectralflux - Quartiles
+Most calls in mania are spectrum_medium compared to the state of euthymia.;0.0;1.0;only spectralflux - Quartiles
+Most calls in mania are loudness_medium compared to the state of euthymia.;0.0;1.0;only spectralflux - Quartiles
+Most calls in mania are tone_medium compared to the state of euthymia.;0.0;1.0;only spectralflux - Quartiles
+Most calls in mania are quality_medium compared to the state of euthymia.;0.0;1.0;only spectralflux - Quartiles
+Minority of calls in mania are spectrum_medium compared to the state of euthymia.;1.0;1.0;only spectralflux - Quartiles
+Minority of calls in mania are loudness_medium compared to the state of euthymia.;1.0;1.0;only spectralflux - Quartiles
+Minority of calls in mania are tone_medium compared to the state of euthymia.;1.0;1.0;only spectralflux - Quartiles
+Minority of calls in mania are quality_medium compared to the state of euthymia.;1.0;1.0;only spectralflux - Quartiles
+Most calls in mania are spectrum_high compared to the state of euthymia.;0.0;1.0;only spectralflux - Quartiles
+Most calls in mania are loudness_high compared to the state of euthymia.;0.0;1.0;only spectralflux - Quartiles
+Most calls in mania are tone_high compared to the state of euthymia.;0.0;1.0;only spectralflux - Quartiles
+Most calls in mania are quality_high compared to the state of euthymia.;0.0;1.0;only spectralflux - Quartiles
+Minority of calls in mania are spectrum_high compared to the state of euthymia.;0.8312958534477821;1.0;only spectralflux - Quartiles
+Minority of calls in mania are loudness_high compared to the state of euthymia.;0.6273858015341649;1.0;only spectralflux - Quartiles
+Minority of calls in mania are tone_high compared to the state of euthymia.;1.0;1.0;only spectralflux - Quartiles
+Minority of calls in mania are quality_high compared to the state of euthymia.;1.0;1.0;only spectralflux - Quartiles
+Most loudness_low calls in mania are spectrum_low compared to the state of euthymia.;1.0;2.0;only spectralflux - Quartiles
+Minority of loudness_low calls in mania are spectrum_low compared to the state of euthymia.;0.0;2.0;only spectralflux - Quartiles
+Most loudness_low calls in mania are spectrum_medium compared to the state of euthymia.;0.0;2.0;only spectralflux - Quartiles
+Minority of loudness_low calls in mania are spectrum_medium compared to the state of euthymia.;1.0;2.0;only spectralflux - Quartiles
+Most loudness_low calls in mania are spectrum_high compared to the state of euthymia.;0.0;2.0;only spectralflux - Quartiles
+Minority of loudness_low calls in mania are spectrum_high compared to the state of euthymia.;1.0;2.0;only spectralflux - Quartiles
+Most loudness_low calls in mania are tone_low compared to the state of euthymia.;0.5546201549866119;2.0;only spectralflux - Quartiles
+Minority of loudness_low calls in mania are tone_low compared to the state of euthymia.;0.0;2.0;only spectralflux - Quartiles
+Most loudness_low calls in mania are tone_medium compared to the state of euthymia.;0.0;2.0;only spectralflux - Quartiles
+Minority of loudness_low calls in mania are tone_medium compared to the state of euthymia.;1.0;2.0;only spectralflux - Quartiles
+Most loudness_low calls in mania are tone_high compared to the state of euthymia.;0.0;2.0;only spectralflux - Quartiles
+Minority of loudness_low calls in mania are tone_high compared to the state of euthymia.;1.0;2.0;only spectralflux - Quartiles
+Most loudness_low calls in mania are quality_low compared to the state of euthymia.;1.0;2.0;only spectralflux - Quartiles
+Minority of loudness_low calls in mania are quality_low compared to the state of euthymia.;0.0;2.0;only spectralflux - Quartiles
+Most loudness_low calls in mania are quality_medium compared to the state of euthymia.;0.0;2.0;only spectralflux - Quartiles
+Minority of loudness_low calls in mania are quality_medium compared to the state of euthymia.;1.0;2.0;only spectralflux - Quartiles
+Most loudness_low calls in mania are quality_high compared to the state of euthymia.;0.0;2.0;only spectralflux - Quartiles
+Minority of loudness_low calls in mania are quality_high compared to the state of euthymia.;1.0;2.0;only spectralflux - Quartiles
+Most loudness_medium calls in mania are spectrum_low compared to the state of euthymia.;0.0;2.0;only spectralflux - Quartiles
+Minority of loudness_medium calls in mania are spectrum_low compared to the state of euthymia.;1.0;2.0;only spectralflux - Quartiles
+Most loudness_medium calls in mania are spectrum_medium compared to the state of euthymia.;0.0;2.0;only spectralflux - Quartiles
+Minority of loudness_medium calls in mania are spectrum_medium compared to the state of euthymia.;1.0;2.0;only spectralflux - Quartiles
+Most loudness_medium calls in mania are spectrum_high compared to the state of euthymia.;0.0;2.0;only spectralflux - Quartiles
+Minority of loudness_medium calls in mania are spectrum_high compared to the state of euthymia.;1.0;2.0;only spectralflux - Quartiles
+Most loudness_medium calls in mania are tone_low compared to the state of euthymia.;0.0;2.0;only spectralflux - Quartiles
+Minority of loudness_medium calls in mania are tone_low compared to the state of euthymia.;1.0;2.0;only spectralflux - Quartiles
+Most loudness_medium calls in mania are tone_medium compared to the state of euthymia.;0.0;2.0;only spectralflux - Quartiles
+Minority of loudness_medium calls in mania are tone_medium compared to the state of euthymia.;1.0;2.0;only spectralflux - Quartiles
+Most loudness_medium calls in mania are tone_high compared to the state of euthymia.;0.0;2.0;only spectralflux - Quartiles
+Minority of loudness_medium calls in mania are tone_high compared to the state of euthymia.;1.0;2.0;only spectralflux - Quartiles
+Most loudness_medium calls in mania are quality_low compared to the state of euthymia.;0.0;2.0;only spectralflux - Quartiles
+Minority of loudness_medium calls in mania are quality_low compared to the state of euthymia.;1.0;2.0;only spectralflux - Quartiles
+Most loudness_medium calls in mania are quality_medium compared to the state of euthymia.;0.0;2.0;only spectralflux - Quartiles
+Minority of loudness_medium calls in mania are quality_medium compared to the state of euthymia.;1.0;2.0;only spectralflux - Quartiles
+Most loudness_medium calls in mania are quality_high compared to the state of euthymia.;0.0;2.0;only spectralflux - Quartiles
+Minority of loudness_medium calls in mania are quality_high compared to the state of euthymia.;1.0;2.0;only spectralflux - Quartiles
+Most loudness_high calls in mania are spectrum_low compared to the state of euthymia.;0.0;2.0;only spectralflux - Quartiles
+Minority of loudness_high calls in mania are spectrum_low compared to the state of euthymia.;1.0;2.0;only spectralflux - Quartiles
+Most loudness_high calls in mania are spectrum_medium compared to the state of euthymia.;0.0;2.0;only spectralflux - Quartiles
+Minority of loudness_high calls in mania are spectrum_medium compared to the state of euthymia.;1.0;2.0;only spectralflux - Quartiles
+Most loudness_high calls in mania are spectrum_high compared to the state of euthymia.;1.0;2.0;only spectralflux - Quartiles
+Minority of loudness_high calls in mania are spectrum_high compared to the state of euthymia.;0.0;2.0;only spectralflux - Quartiles
+Most loudness_high calls in mania are tone_low compared to the state of euthymia.;0.0;2.0;only spectralflux - Quartiles
+Minority of loudness_high calls in mania are tone_low compared to the state of euthymia.;0.9226638969619612;2.0;only spectralflux - Quartiles
+Most loudness_high calls in mania are tone_medium compared to the state of euthymia.;0.0;2.0;only spectralflux - Quartiles
+Minority of loudness_high calls in mania are tone_medium compared to the state of euthymia.;1.0;2.0;only spectralflux - Quartiles
+Most loudness_high calls in mania are tone_high compared to the state of euthymia.;0.0;2.0;only spectralflux - Quartiles
+Minority of loudness_high calls in mania are tone_high compared to the state of euthymia.;1.0;2.0;only spectralflux - Quartiles
+Most loudness_high calls in mania are quality_low compared to the state of euthymia.;0.10844279930072681;2.0;only spectralflux - Quartiles
+Minority of loudness_high calls in mania are quality_low compared to the state of euthymia.;0.13493432041956388;2.0;only spectralflux - Quartiles
+Most loudness_high calls in mania are quality_medium compared to the state of euthymia.;0.0;2.0;only spectralflux - Quartiles
+Minority of loudness_high calls in mania are quality_medium compared to the state of euthymia.;1.0;2.0;only spectralflux - Quartiles
+Most loudness_high calls in mania are quality_high compared to the state of euthymia.;0.0;2.0;only spectralflux - Quartiles
+Minority of loudness_high calls in mania are quality_high compared to the state of euthymia.;1.0;2.0;only spectralflux - Quartiles
+Most tone_low calls in mania are spectrum_low compared to the state of euthymia.;1.0;2.0;only spectralflux - Quartiles
+Minority of tone_low calls in mania are spectrum_low compared to the state of euthymia.;0.0;2.0;only spectralflux - Quartiles
+Most tone_low calls in mania are spectrum_medium compared to the state of euthymia.;0.0;2.0;only spectralflux - Quartiles
+Minority of tone_low calls in mania are spectrum_medium compared to the state of euthymia.;1.0;2.0;only spectralflux - Quartiles
+Most tone_low calls in mania are spectrum_high compared to the state of euthymia.;0.0;2.0;only spectralflux - Quartiles
+Minority of tone_low calls in mania are spectrum_high compared to the state of euthymia.;1.0;2.0;only spectralflux - Quartiles
+Most tone_low calls in mania are loudness_low compared to the state of euthymia.;1.0;2.0;only spectralflux - Quartiles
+Minority tone_low calls in mania are loudness_low compared to the state of euthymia.;0.0;2.0;only spectralflux - Quartiles
+Most tone_low calls in mania are loudness_medium compared to the state of euthymia.;0.0;2.0;only spectralflux - Quartiles
+Minority tone_low calls in mania are loudness_medium compared to the state of euthymia.;1.0;2.0;only spectralflux - Quartiles
+Most tone_low calls in mania are loudness_high compared to the state of euthymia.;0.0;2.0;only spectralflux - Quartiles
+Minority tone_low calls in mania are loudness_high compared to the state of euthymia.;1.0;2.0;only spectralflux - Quartiles
+Most tone_low calls in mania are quality_low compared to the state of euthymia.;1.0;2.0;only spectralflux - Quartiles
+Minority of tone_low calls in mania are quality_low compared to the state of euthymia.;0.0;2.0;only spectralflux - Quartiles
+Most tone_low calls in mania are quality_medium compared to the state of euthymia.;0.0;2.0;only spectralflux - Quartiles
+Minority of tone_low calls in mania are quality_medium compared to the state of euthymia.;1.0;2.0;only spectralflux - Quartiles
+Most tone_low calls in mania are quality_high compared to the state of euthymia.;0.0;2.0;only spectralflux - Quartiles
+Minority of tone_low calls in mania are quality_high compared to the state of euthymia.;1.0;2.0;only spectralflux - Quartiles
+Most tone_medium calls in mania are spectrum_low compared to the state of euthymia.;0.0;2.0;only spectralflux - Quartiles
+Minority of tone_medium calls in mania are spectrum_low compared to the state of euthymia.;1.0;2.0;only spectralflux - Quartiles
+Most tone_medium calls in mania are spectrum_medium compared to the state of euthymia.;0.0;2.0;only spectralflux - Quartiles
+Minority of tone_medium calls in mania are spectrum_medium compared to the state of euthymia.;1.0;2.0;only spectralflux - Quartiles
+Most tone_medium calls in mania are spectrum_high compared to the state of euthymia.;0.0;2.0;only spectralflux - Quartiles
+Minority of tone_medium calls in mania are spectrum_high compared to the state of euthymia.;1.0;2.0;only spectralflux - Quartiles
+Most tone_medium calls in mania are loudness_low compared to the state of euthymia.;0.0;2.0;only spectralflux - Quartiles
+Minority tone_medium calls in mania are loudness_low compared to the state of euthymia.;1.0;2.0;only spectralflux - Quartiles
+Most tone_medium calls in mania are loudness_medium compared to the state of euthymia.;0.0;2.0;only spectralflux - Quartiles
+Minority tone_medium calls in mania are loudness_medium compared to the state of euthymia.;1.0;2.0;only spectralflux - Quartiles
+Most tone_medium calls in mania are loudness_high compared to the state of euthymia.;0.0;2.0;only spectralflux - Quartiles
+Minority tone_medium calls in mania are loudness_high compared to the state of euthymia.;1.0;2.0;only spectralflux - Quartiles
+Most tone_medium calls in mania are quality_low compared to the state of euthymia.;0.0;2.0;only spectralflux - Quartiles
+Minority of tone_medium calls in mania are quality_low compared to the state of euthymia.;1.0;2.0;only spectralflux - Quartiles
+Most tone_medium calls in mania are quality_medium compared to the state of euthymia.;0.0;2.0;only spectralflux - Quartiles
+Minority of tone_medium calls in mania are quality_medium compared to the state of euthymia.;1.0;2.0;only spectralflux - Quartiles
+Most tone_medium calls in mania are quality_high compared to the state of euthymia.;0.0;2.0;only spectralflux - Quartiles
+Minority of tone_medium calls in mania are quality_high compared to the state of euthymia.;1.0;2.0;only spectralflux - Quartiles
+Most tone_high calls in mania are spectrum_low compared to the state of euthymia.;0.0;2.0;only spectralflux - Quartiles
+Minority of tone_high calls in mania are spectrum_low compared to the state of euthymia.;0.29864640205665016;2.0;only spectralflux - Quartiles
+Most tone_high calls in mania are spectrum_medium compared to the state of euthymia.;0.0;2.0;only spectralflux - Quartiles
+Minority of tone_high calls in mania are spectrum_medium compared to the state of euthymia.;1.0;2.0;only spectralflux - Quartiles
+Most tone_high calls in mania are spectrum_high compared to the state of euthymia.;0.0;2.0;only spectralflux - Quartiles
+Minority of tone_high calls in mania are spectrum_high compared to the state of euthymia.;0.38596408253337167;2.0;only spectralflux - Quartiles
+Most tone_high calls in mania are loudness_low compared to the state of euthymia.;0.0;2.0;only spectralflux - Quartiles
+Minority tone_high calls in mania are loudness_low compared to the state of euthymia.;0.5632234458703733;2.0;only spectralflux - Quartiles
+Most tone_high calls in mania are loudness_medium compared to the state of euthymia.;0.0;2.0;only spectralflux - Quartiles
+Minority tone_high calls in mania are loudness_medium compared to the state of euthymia.;1.0;2.0;only spectralflux - Quartiles
+Most tone_high calls in mania are loudness_high compared to the state of euthymia.;0.0;2.0;only spectralflux - Quartiles
+Minority tone_high calls in mania are loudness_high compared to the state of euthymia.;0.709677999554821;2.0;only spectralflux - Quartiles
+Most tone_high calls in mania are quality_low compared to the state of euthymia.;0.0;2.0;only spectralflux - Quartiles
+Minority of tone_high calls in mania are quality_low compared to the state of euthymia.;0.4623386989863896;2.0;only spectralflux - Quartiles
+Most tone_high calls in mania are quality_medium compared to the state of euthymia.;0.0;2.0;only spectralflux - Quartiles
+Minority of tone_high calls in mania are quality_medium compared to the state of euthymia.;1.0;2.0;only spectralflux - Quartiles
+Most tone_high calls in mania are quality_high compared to the state of euthymia.;0.0;2.0;only spectralflux - Quartiles
+Minority of tone_high calls in mania are quality_high compared to the state of euthymia.;1.0;2.0;only spectralflux - Quartiles
+Most spectrum_low calls in mania are tone_low compared to the state of euthymia.;0.661855066328011;2.0;only spectralflux - Quartiles
+Minority of spectrum_low calls in mania are tone_low compared to the state of euthymia.;0.0;2.0;only spectralflux - Quartiles
+Most spectrum_low calls in mania are tone_medium compared to the state of euthymia.;0.0;2.0;only spectralflux - Quartiles
+Minority of spectrum_low calls in mania are tone_medium compared to the state of euthymia.;1.0;2.0;only spectralflux - Quartiles
+Most spectrum_low calls in mania are tone_high compared to the state of euthymia.;0.0;2.0;only spectralflux - Quartiles
+Minority of spectrum_low calls in mania are tone_high compared to the state of euthymia.;1.0;2.0;only spectralflux - Quartiles
+Most spectrum_low calls in mania are loudness_low compared to the state of euthymia.;1.0;2.0;only spectralflux - Quartiles
+Minority of spectrum_low calls in mania are loudness_low compared to the state of euthymia.;0.0;2.0;only spectralflux - Quartiles
+Most spectrum_low calls in mania are loudness_medium compared to the state of euthymia.;0.0;2.0;only spectralflux - Quartiles
+Minority of spectrum_low calls in mania are loudness_medium compared to the state of euthymia.;1.0;2.0;only spectralflux - Quartiles
+Most spectrum_low calls in mania are loudness_high compared to the state of euthymia.;0.0;2.0;only spectralflux - Quartiles
+Minority of spectrum_low calls in mania are loudness_high compared to the state of euthymia.;1.0;2.0;only spectralflux - Quartiles
+Most spectrum_low calls in mania are quality_low compared to the state of euthymia.;1.0;2.0;only spectralflux - Quartiles
+Minority of spectrum_low calls in mania are quality_low compared to the state of euthymia.;0.0;2.0;only spectralflux - Quartiles
+Most spectrum_low calls in mania are quality_medium compared to the state of euthymia.;0.0;2.0;only spectralflux - Quartiles
+Minority of spectrum_low calls in mania are quality_medium compared to the state of euthymia.;1.0;2.0;only spectralflux - Quartiles
+Most spectrum_low calls in mania are quality_high compared to the state of euthymia.;0.0;2.0;only spectralflux - Quartiles
+Minority of spectrum_low calls in mania are quality_high compared to the state of euthymia.;1.0;2.0;only spectralflux - Quartiles
+Most spectrum_medium calls in mania are tone_low compared to the state of euthymia.;0.0;2.0;only spectralflux - Quartiles
+Minority of spectrum_medium calls in mania are tone_low compared to the state of euthymia.;0.5128845575537417;2.0;only spectralflux - Quartiles
+Most spectrum_medium calls in mania are tone_medium compared to the state of euthymia.;0.0;2.0;only spectralflux - Quartiles
+Minority of spectrum_medium calls in mania are tone_medium compared to the state of euthymia.;1.0;2.0;only spectralflux - Quartiles
+Most spectrum_medium calls in mania are tone_high compared to the state of euthymia.;0.0;2.0;only spectralflux - Quartiles
+Minority of spectrum_medium calls in mania are tone_high compared to the state of euthymia.;1.0;2.0;only spectralflux - Quartiles
+Most spectrum_medium calls in mania are loudness_low compared to the state of euthymia.;0.0;2.0;only spectralflux - Quartiles
+Minority of spectrum_medium calls in mania are loudness_low compared to the state of euthymia.;1.0;2.0;only spectralflux - Quartiles
+Most spectrum_medium calls in mania are loudness_medium compared to the state of euthymia.;0.0;2.0;only spectralflux - Quartiles
+Minority of spectrum_medium calls in mania are loudness_medium compared to the state of euthymia.;1.0;2.0;only spectralflux - Quartiles
+Most spectrum_medium calls in mania are loudness_high compared to the state of euthymia.;0.7963958377270728;2.0;only spectralflux - Quartiles
+Minority of spectrum_medium calls in mania are loudness_high compared to the state of euthymia.;0.0;2.0;only spectralflux - Quartiles
+Most spectrum_medium calls in mania are quality_low compared to the state of euthymia.;0.556018544762231;2.0;only spectralflux - Quartiles
+Minority of spectrum_medium calls in mania are quality_low compared to the state of euthymia.;0.0;2.0;only spectralflux - Quartiles
+Most spectrum_medium calls in mania are quality_medium compared to the state of euthymia.;0.0;2.0;only spectralflux - Quartiles
+Minority of spectrum_medium calls in mania are quality_medium compared to the state of euthymia.;1.0;2.0;only spectralflux - Quartiles
+Most spectrum_medium calls in mania are quality_high compared to the state of euthymia.;0.0;2.0;only spectralflux - Quartiles
+Minority of spectrum_medium calls in mania are quality_high compared to the state of euthymia.;1.0;2.0;only spectralflux - Quartiles
+Most spectrum_high calls in mania are tone_low compared to the state of euthymia.;0.0;2.0;only spectralflux - Quartiles
+Minority of spectrum_high calls in mania are tone_low compared to the state of euthymia.;1.0;2.0;only spectralflux - Quartiles
+Most spectrum_high calls in mania are tone_medium compared to the state of euthymia.;0.0;2.0;only spectralflux - Quartiles
+Minority of spectrum_high calls in mania are tone_medium compared to the state of euthymia.;1.0;2.0;only spectralflux - Quartiles
+Most spectrum_high calls in mania are tone_high compared to the state of euthymia.;0.0;2.0;only spectralflux - Quartiles
+Minority of spectrum_high calls in mania are tone_high compared to the state of euthymia.;1.0;2.0;only spectralflux - Quartiles
+Most spectrum_high calls in mania are loudness_low compared to the state of euthymia.;0.0;2.0;only spectralflux - Quartiles
+Minority of spectrum_high calls in mania are loudness_low compared to the state of euthymia.;1.0;2.0;only spectralflux - Quartiles
+Most spectrum_high calls in mania are loudness_medium compared to the state of euthymia.;0.0;2.0;only spectralflux - Quartiles
+Minority of spectrum_high calls in mania are loudness_medium compared to the state of euthymia.;1.0;2.0;only spectralflux - Quartiles
+Most spectrum_high calls in mania are loudness_high compared to the state of euthymia.;1.0;2.0;only spectralflux - Quartiles
+Minority of spectrum_high calls in mania are loudness_high compared to the state of euthymia.;0.0;2.0;only spectralflux - Quartiles
+Most spectrum_high calls in mania are quality_low compared to the state of euthymia.;0.0;2.0;only spectralflux - Quartiles
+Minority of spectrum_high calls in mania are quality_low compared to the state of euthymia.;1.0;2.0;only spectralflux - Quartiles
+Most spectrum_high calls in mania are quality_medium compared to the state of euthymia.;0.0;2.0;only spectralflux - Quartiles
+Minority of spectrum_high calls in mania are quality_medium compared to the state of euthymia.;1.0;2.0;only spectralflux - Quartiles
+Most spectrum_high calls in mania are quality_high compared to the state of euthymia.;0.0;2.0;only spectralflux - Quartiles
+Minority of spectrum_high calls in mania are quality_high compared to the state of euthymia.;1.0;2.0;only spectralflux - Quartiles
+Most quality_low calls in mania are tone_low compared to the state of euthymia.;0.3179673670277528;2.0;only spectralflux - Quartiles
+Minority of quality_low calls in mania are tone_low compared to the state of euthymia.;0.009219579783348308;2.0;only spectralflux - Quartiles
+Most quality_low calls in mania are tone_medium compared to the state of euthymia.;0.0;2.0;only spectralflux - Quartiles
+Minority of quality_low calls in mania are tone_medium compared to the state of euthymia.;1.0;2.0;only spectralflux - Quartiles
+Most quality_low calls in mania are tone_high compared to the state of euthymia.;0.0;2.0;only spectralflux - Quartiles
+Minority of quality_low calls in mania are tone_high compared to the state of euthymia.;1.0;2.0;only spectralflux - Quartiles
+Most quality_low calls in mania are loudness_low compared to the state of euthymia.;1.0;2.0;only spectralflux - Quartiles
+Minority of quality_low calls in mania are loudness_low compared to the state of euthymia.;0.0;2.0;only spectralflux - Quartiles
+Most quality_low calls in mania are loudness_medium compared to the state of euthymia.;0.0;2.0;only spectralflux - Quartiles
+Minority of quality_low calls in mania are loudness_medium compared to the state of euthymia.;1.0;2.0;only spectralflux - Quartiles
+Most quality_low calls in mania are loudness_high compared to the state of euthymia.;0.0;2.0;only spectralflux - Quartiles
+Minority of quality_low calls in mania are loudness_high compared to the state of euthymia.;1.0;2.0;only spectralflux - Quartiles
+Most quality_low calls in mania are spectrum_low compared to the state of euthymia.;1.0;2.0;only spectralflux - Quartiles
+Minority of quality_low calls in mania are spectrum_low compared to the state of euthymia.;0.0;2.0;only spectralflux - Quartiles
+Most quality_low calls in mania are spectrum_medium compared to the state of euthymia.;0.0;2.0;only spectralflux - Quartiles
+Minority of quality_low calls in mania are spectrum_medium compared to the state of euthymia.;1.0;2.0;only spectralflux - Quartiles
+Most quality_low calls in mania are spectrum_high compared to the state of euthymia.;0.0;2.0;only spectralflux - Quartiles
+Minority of quality_low calls in mania are spectrum_high compared to the state of euthymia.;1.0;2.0;only spectralflux - Quartiles
+Most quality_medium calls in mania are tone_low compared to the state of euthymia.;0.0;2.0;only spectralflux - Quartiles
+Minority of quality_medium calls in mania are tone_low compared to the state of euthymia.;1.0;2.0;only spectralflux - Quartiles
+Most quality_medium calls in mania are tone_medium compared to the state of euthymia.;0.0;2.0;only spectralflux - Quartiles
+Minority of quality_medium calls in mania are tone_medium compared to the state of euthymia.;1.0;2.0;only spectralflux - Quartiles
+Most quality_medium calls in mania are tone_high compared to the state of euthymia.;0.0;2.0;only spectralflux - Quartiles
+Minority of quality_medium calls in mania are tone_high compared to the state of euthymia.;1.0;2.0;only spectralflux - Quartiles
+Most quality_medium calls in mania are loudness_low compared to the state of euthymia.;0.0;2.0;only spectralflux - Quartiles
+Minority of quality_medium calls in mania are loudness_low compared to the state of euthymia.;1.0;2.0;only spectralflux - Quartiles
+Most quality_medium calls in mania are loudness_medium compared to the state of euthymia.;0.0;2.0;only spectralflux - Quartiles
+Minority of quality_medium calls in mania are loudness_medium compared to the state of euthymia.;1.0;2.0;only spectralflux - Quartiles
+Most quality_medium calls in mania are loudness_high compared to the state of euthymia.;0.0;2.0;only spectralflux - Quartiles
+Minority of quality_medium calls in mania are loudness_high compared to the state of euthymia.;1.0;2.0;only spectralflux - Quartiles
+Most quality_medium calls in mania are spectrum_low compared to the state of euthymia.;0.0;2.0;only spectralflux - Quartiles
+Minority of quality_medium calls in mania are spectrum_low compared to the state of euthymia.;1.0;2.0;only spectralflux - Quartiles
+Most quality_medium calls in mania are spectrum_medium compared to the state of euthymia.;0.0;2.0;only spectralflux - Quartiles
+Minority of quality_medium calls in mania are spectrum_medium compared to the state of euthymia.;1.0;2.0;only spectralflux - Quartiles
+Most quality_medium calls in mania are spectrum_high compared to the state of euthymia.;0.0;2.0;only spectralflux - Quartiles
+Minority of quality_medium calls in mania are spectrum_high compared to the state of euthymia.;1.0;2.0;only spectralflux - Quartiles
+Most quality_high calls in mania are tone_low compared to the state of euthymia.;0.0;2.0;only spectralflux - Quartiles
+Minority of quality_high calls in mania are tone_low compared to the state of euthymia.;1.0;2.0;only spectralflux - Quartiles
+Most quality_high calls in mania are tone_medium compared to the state of euthymia.;0.0;2.0;only spectralflux - Quartiles
+Minority of quality_high calls in mania are tone_medium compared to the state of euthymia.;1.0;2.0;only spectralflux - Quartiles
+Most quality_high calls in mania are tone_high compared to the state of euthymia.;0.0;2.0;only spectralflux - Quartiles
+Minority of quality_high calls in mania are tone_high compared to the state of euthymia.;0.6565324049264487;2.0;only spectralflux - Quartiles
+Most quality_high calls in mania are loudness_low compared to the state of euthymia.;0.0;2.0;only spectralflux - Quartiles
+Minority of quality_high calls in mania are loudness_low compared to the state of euthymia.;1.0;2.0;only spectralflux - Quartiles
+Most quality_high calls in mania are loudness_medium compared to the state of euthymia.;0.0;2.0;only spectralflux - Quartiles
+Minority of quality_high calls in mania are loudness_medium compared to the state of euthymia.;1.0;2.0;only spectralflux - Quartiles
+Most quality_high calls in mania are loudness_high compared to the state of euthymia.;1.0;2.0;only spectralflux - Quartiles
+Minority of quality_high calls in mania are loudness_high compared to the state of euthymia.;0.0;2.0;only spectralflux - Quartiles
+Most quality_high calls in mania are spectrum_low compared to the state of euthymia.;0.0;2.0;only spectralflux - Quartiles
+Minority of quality_high calls in mania are spectrum_low compared to the state of euthymia.;1.0;2.0;only spectralflux - Quartiles
+Most quality_high calls in mania are spectrum_medium compared to the state of euthymia.;0.0;2.0;only spectralflux - Quartiles
+Minority of quality_high calls in mania are spectrum_medium compared to the state of euthymia.;1.0;2.0;only spectralflux - Quartiles
+Most quality_high calls in mania are spectrum_high compared to the state of euthymia.;1.0;2.0;only spectralflux - Quartiles
+Minority of quality_high calls in mania are spectrum_high compared to the state of euthymia.;0.0;2.0;only spectralflux - Quartiles
+Most calls in hipomania are spectrum_low compared to the state of euthymia.;1.0;1.0;only spectralflux - Quartiles
+Most calls in hipomania are loudness_low compared to the state of euthymia.;1.0;1.0;only spectralflux - Quartiles
+Most calls in hipomania are tone_low compared to the state of euthymia.;0.0;1.0;only spectralflux - Quartiles
+Most calls in hipomania are quality_low compared to the state of euthymia.;1.0;1.0;only spectralflux - Quartiles
+Minority of calls in hipomania are spectrum_low compared to the state of euthymia.;0.0;1.0;only spectralflux - Quartiles
+Minority of calls in hipomania are loudness_low compared to the state of euthymia.;0.0;1.0;only spectralflux - Quartiles
+Minority of calls in hipomania are tone_low compared to the state of euthymia.;0.9032356835213087;1.0;only spectralflux - Quartiles
+Minority of calls in hipomania are quality_low compared to the state of euthymia.;0.0;1.0;only spectralflux - Quartiles
+Most calls in hipomania are spectrum_medium compared to the state of euthymia.;0.0;1.0;only spectralflux - Quartiles
+Most calls in hipomania are loudness_medium compared to the state of euthymia.;0.0;1.0;only spectralflux - Quartiles
+Most calls in hipomania are tone_medium compared to the state of euthymia.;0.0;1.0;only spectralflux - Quartiles
+Most calls in hipomania are quality_medium compared to the state of euthymia.;0.0;1.0;only spectralflux - Quartiles
+Minority of calls in hipomania are spectrum_medium compared to the state of euthymia.;1.0;1.0;only spectralflux - Quartiles
+Minority of calls in hipomania are loudness_medium compared to the state of euthymia.;1.0;1.0;only spectralflux - Quartiles
+Minority of calls in hipomania are tone_medium compared to the state of euthymia.;1.0;1.0;only spectralflux - Quartiles
+Minority of calls in hipomania are quality_medium compared to the state of euthymia.;1.0;1.0;only spectralflux - Quartiles
+Most calls in hipomania are spectrum_high compared to the state of euthymia.;0.0;1.0;only spectralflux - Quartiles
+Most calls in hipomania are loudness_high compared to the state of euthymia.;0.0;1.0;only spectralflux - Quartiles
+Most calls in hipomania are tone_high compared to the state of euthymia.;0.0;1.0;only spectralflux - Quartiles
+Most calls in hipomania are quality_high compared to the state of euthymia.;0.0;1.0;only spectralflux - Quartiles
+Minority of calls in hipomania are spectrum_high compared to the state of euthymia.;1.0;1.0;only spectralflux - Quartiles
+Minority of calls in hipomania are loudness_high compared to the state of euthymia.;1.0;1.0;only spectralflux - Quartiles
+Minority of calls in hipomania are tone_high compared to the state of euthymia.;1.0;1.0;only spectralflux - Quartiles
+Minority of calls in hipomania are quality_high compared to the state of euthymia.;1.0;1.0;only spectralflux - Quartiles
+Most loudness_low calls in hipomania are spectrum_low compared to the state of euthymia.;1.0;2.0;only spectralflux - Quartiles
+Minority of loudness_low calls in hipomania are spectrum_low compared to the state of euthymia.;0.0;2.0;only spectralflux - Quartiles
+Most loudness_low calls in hipomania are spectrum_medium compared to the state of euthymia.;0.0;2.0;only spectralflux - Quartiles
+Minority of loudness_low calls in hipomania are spectrum_medium compared to the state of euthymia.;1.0;2.0;only spectralflux - Quartiles
+Most loudness_low calls in hipomania are spectrum_high compared to the state of euthymia.;0.0;2.0;only spectralflux - Quartiles
+Minority of loudness_low calls in hipomania are spectrum_high compared to the state of euthymia.;1.0;2.0;only spectralflux - Quartiles
+Most loudness_low calls in hipomania are tone_low compared to the state of euthymia.;0.0;2.0;only spectralflux - Quartiles
+Minority of loudness_low calls in hipomania are tone_low compared to the state of euthymia.;0.3751639755871239;2.0;only spectralflux - Quartiles
+Most loudness_low calls in hipomania are tone_medium compared to the state of euthymia.;0.0;2.0;only spectralflux - Quartiles
+Minority of loudness_low calls in hipomania are tone_medium compared to the state of euthymia.;1.0;2.0;only spectralflux - Quartiles
+Most loudness_low calls in hipomania are tone_high compared to the state of euthymia.;0.0;2.0;only spectralflux - Quartiles
+Minority of loudness_low calls in hipomania are tone_high compared to the state of euthymia.;1.0;2.0;only spectralflux - Quartiles
+Most loudness_low calls in hipomania are quality_low compared to the state of euthymia.;1.0;2.0;only spectralflux - Quartiles
+Minority of loudness_low calls in hipomania are quality_low compared to the state of euthymia.;0.0;2.0;only spectralflux - Quartiles
+Most loudness_low calls in hipomania are quality_medium compared to the state of euthymia.;0.0;2.0;only spectralflux - Quartiles
+Minority of loudness_low calls in hipomania are quality_medium compared to the state of euthymia.;1.0;2.0;only spectralflux - Quartiles
+Most loudness_low calls in hipomania are quality_high compared to the state of euthymia.;0.0;2.0;only spectralflux - Quartiles
+Minority of loudness_low calls in hipomania are quality_high compared to the state of euthymia.;1.0;2.0;only spectralflux - Quartiles
+Most loudness_medium calls in hipomania are spectrum_low compared to the state of euthymia.;0.0;2.0;only spectralflux - Quartiles
+Minority of loudness_medium calls in hipomania are spectrum_low compared to the state of euthymia.;1.0;2.0;only spectralflux - Quartiles
+Most loudness_medium calls in hipomania are spectrum_medium compared to the state of euthymia.;0.0;2.0;only spectralflux - Quartiles
+Minority of loudness_medium calls in hipomania are spectrum_medium compared to the state of euthymia.;1.0;2.0;only spectralflux - Quartiles
+Most loudness_medium calls in hipomania are spectrum_high compared to the state of euthymia.;0.0;2.0;only spectralflux - Quartiles
+Minority of loudness_medium calls in hipomania are spectrum_high compared to the state of euthymia.;1.0;2.0;only spectralflux - Quartiles
+Most loudness_medium calls in hipomania are tone_low compared to the state of euthymia.;0.0;2.0;only spectralflux - Quartiles
+Minority of loudness_medium calls in hipomania are tone_low compared to the state of euthymia.;1.0;2.0;only spectralflux - Quartiles
+Most loudness_medium calls in hipomania are tone_medium compared to the state of euthymia.;0.0;2.0;only spectralflux - Quartiles
+Minority of loudness_medium calls in hipomania are tone_medium compared to the state of euthymia.;1.0;2.0;only spectralflux - Quartiles
+Most loudness_medium calls in hipomania are tone_high compared to the state of euthymia.;0.0;2.0;only spectralflux - Quartiles
+Minority of loudness_medium calls in hipomania are tone_high compared to the state of euthymia.;1.0;2.0;only spectralflux - Quartiles
+Most loudness_medium calls in hipomania are quality_low compared to the state of euthymia.;0.0;2.0;only spectralflux - Quartiles
+Minority of loudness_medium calls in hipomania are quality_low compared to the state of euthymia.;1.0;2.0;only spectralflux - Quartiles
+Most loudness_medium calls in hipomania are quality_medium compared to the state of euthymia.;0.0;2.0;only spectralflux - Quartiles
+Minority of loudness_medium calls in hipomania are quality_medium compared to the state of euthymia.;1.0;2.0;only spectralflux - Quartiles
+Most loudness_medium calls in hipomania are quality_high compared to the state of euthymia.;0.0;2.0;only spectralflux - Quartiles
+Minority of loudness_medium calls in hipomania are quality_high compared to the state of euthymia.;1.0;2.0;only spectralflux - Quartiles
+Most loudness_high calls in hipomania are spectrum_low compared to the state of euthymia.;0.0;2.0;only spectralflux - Quartiles
+Minority of loudness_high calls in hipomania are spectrum_low compared to the state of euthymia.;1.0;2.0;only spectralflux - Quartiles
+Most loudness_high calls in hipomania are spectrum_medium compared to the state of euthymia.;0.0;2.0;only spectralflux - Quartiles
+Minority of loudness_high calls in hipomania are spectrum_medium compared to the state of euthymia.;1.0;2.0;only spectralflux - Quartiles
+Most loudness_high calls in hipomania are spectrum_high compared to the state of euthymia.;1.0;2.0;only spectralflux - Quartiles
+Minority of loudness_high calls in hipomania are spectrum_high compared to the state of euthymia.;0.0;2.0;only spectralflux - Quartiles
+Most loudness_high calls in hipomania are tone_low compared to the state of euthymia.;0.0;2.0;only spectralflux - Quartiles
+Minority of loudness_high calls in hipomania are tone_low compared to the state of euthymia.;1.0;2.0;only spectralflux - Quartiles
+Most loudness_high calls in hipomania are tone_medium compared to the state of euthymia.;0.0;2.0;only spectralflux - Quartiles
+Minority of loudness_high calls in hipomania are tone_medium compared to the state of euthymia.;1.0;2.0;only spectralflux - Quartiles
+Most loudness_high calls in hipomania are tone_high compared to the state of euthymia.;0.0;2.0;only spectralflux - Quartiles
+Minority of loudness_high calls in hipomania are tone_high compared to the state of euthymia.;1.0;2.0;only spectralflux - Quartiles
+Most loudness_high calls in hipomania are quality_low compared to the state of euthymia.;0.0;2.0;only spectralflux - Quartiles
+Minority of loudness_high calls in hipomania are quality_low compared to the state of euthymia.;1.0;2.0;only spectralflux - Quartiles
+Most loudness_high calls in hipomania are quality_medium compared to the state of euthymia.;0.0;2.0;only spectralflux - Quartiles
+Minority of loudness_high calls in hipomania are quality_medium compared to the state of euthymia.;1.0;2.0;only spectralflux - Quartiles
+Most loudness_high calls in hipomania are quality_high compared to the state of euthymia.;1.0;2.0;only spectralflux - Quartiles
+Minority of loudness_high calls in hipomania are quality_high compared to the state of euthymia.;0.0;2.0;only spectralflux - Quartiles
+Most tone_low calls in hipomania are spectrum_low compared to the state of euthymia.;1.0;2.0;only spectralflux - Quartiles
+Minority of tone_low calls in hipomania are spectrum_low compared to the state of euthymia.;0.0;2.0;only spectralflux - Quartiles
+Most tone_low calls in hipomania are spectrum_medium compared to the state of euthymia.;0.0;2.0;only spectralflux - Quartiles
+Minority of tone_low calls in hipomania are spectrum_medium compared to the state of euthymia.;1.0;2.0;only spectralflux - Quartiles
+Most tone_low calls in hipomania are spectrum_high compared to the state of euthymia.;0.0;2.0;only spectralflux - Quartiles
+Minority of tone_low calls in hipomania are spectrum_high compared to the state of euthymia.;1.0;2.0;only spectralflux - Quartiles
+Most tone_low calls in hipomania are loudness_low compared to the state of euthymia.;1.0;2.0;only spectralflux - Quartiles
+Minority tone_low calls in hipomania are loudness_low compared to the state of euthymia.;0.0;2.0;only spectralflux - Quartiles
+Most tone_low calls in hipomania are loudness_medium compared to the state of euthymia.;0.0;2.0;only spectralflux - Quartiles
+Minority tone_low calls in hipomania are loudness_medium compared to the state of euthymia.;1.0;2.0;only spectralflux - Quartiles
+Most tone_low calls in hipomania are loudness_high compared to the state of euthymia.;0.0;2.0;only spectralflux - Quartiles
+Minority tone_low calls in hipomania are loudness_high compared to the state of euthymia.;1.0;2.0;only spectralflux - Quartiles
+Most tone_low calls in hipomania are quality_low compared to the state of euthymia.;1.0;2.0;only spectralflux - Quartiles
+Minority of tone_low calls in hipomania are quality_low compared to the state of euthymia.;0.0;2.0;only spectralflux - Quartiles
+Most tone_low calls in hipomania are quality_medium compared to the state of euthymia.;0.0;2.0;only spectralflux - Quartiles
+Minority of tone_low calls in hipomania are quality_medium compared to the state of euthymia.;1.0;2.0;only spectralflux - Quartiles
+Most tone_low calls in hipomania are quality_high compared to the state of euthymia.;0.0;2.0;only spectralflux - Quartiles
+Minority of tone_low calls in hipomania are quality_high compared to the state of euthymia.;1.0;2.0;only spectralflux - Quartiles
+Most tone_medium calls in hipomania are spectrum_low compared to the state of euthymia.;0.0;2.0;only spectralflux - Quartiles
+Minority of tone_medium calls in hipomania are spectrum_low compared to the state of euthymia.;1.0;2.0;only spectralflux - Quartiles
+Most tone_medium calls in hipomania are spectrum_medium compared to the state of euthymia.;0.0;2.0;only spectralflux - Quartiles
+Minority of tone_medium calls in hipomania are spectrum_medium compared to the state of euthymia.;1.0;2.0;only spectralflux - Quartiles
+Most tone_medium calls in hipomania are spectrum_high compared to the state of euthymia.;0.0;2.0;only spectralflux - Quartiles
+Minority of tone_medium calls in hipomania are spectrum_high compared to the state of euthymia.;1.0;2.0;only spectralflux - Quartiles
+Most tone_medium calls in hipomania are loudness_low compared to the state of euthymia.;0.0;2.0;only spectralflux - Quartiles
+Minority tone_medium calls in hipomania are loudness_low compared to the state of euthymia.;1.0;2.0;only spectralflux - Quartiles
+Most tone_medium calls in hipomania are loudness_medium compared to the state of euthymia.;0.0;2.0;only spectralflux - Quartiles
+Minority tone_medium calls in hipomania are loudness_medium compared to the state of euthymia.;1.0;2.0;only spectralflux - Quartiles
+Most tone_medium calls in hipomania are loudness_high compared to the state of euthymia.;0.0;2.0;only spectralflux - Quartiles
+Minority tone_medium calls in hipomania are loudness_high compared to the state of euthymia.;1.0;2.0;only spectralflux - Quartiles
+Most tone_medium calls in hipomania are quality_low compared to the state of euthymia.;0.0;2.0;only spectralflux - Quartiles
+Minority of tone_medium calls in hipomania are quality_low compared to the state of euthymia.;1.0;2.0;only spectralflux - Quartiles
+Most tone_medium calls in hipomania are quality_medium compared to the state of euthymia.;0.0;2.0;only spectralflux - Quartiles
+Minority of tone_medium calls in hipomania are quality_medium compared to the state of euthymia.;1.0;2.0;only spectralflux - Quartiles
+Most tone_medium calls in hipomania are quality_high compared to the state of euthymia.;0.0;2.0;only spectralflux - Quartiles
+Minority of tone_medium calls in hipomania are quality_high compared to the state of euthymia.;1.0;2.0;only spectralflux - Quartiles
+Most tone_high calls in hipomania are spectrum_low compared to the state of euthymia.;0.3333333333333333;2.0;only spectralflux - Quartiles
+Minority of tone_high calls in hipomania are spectrum_low compared to the state of euthymia.;0.0;2.0;only spectralflux - Quartiles
+Most tone_high calls in hipomania are spectrum_medium compared to the state of euthymia.;0.0;2.0;only spectralflux - Quartiles
+Minority of tone_high calls in hipomania are spectrum_medium compared to the state of euthymia.;1.0;2.0;only spectralflux - Quartiles
+Most tone_high calls in hipomania are spectrum_high compared to the state of euthymia.;0.0;2.0;only spectralflux - Quartiles
+Minority of tone_high calls in hipomania are spectrum_high compared to the state of euthymia.;0.6535482499601926;2.0;only spectralflux - Quartiles
+Most tone_high calls in hipomania are loudness_low compared to the state of euthymia.;0.0;2.0;only spectralflux - Quartiles
+Minority tone_high calls in hipomania are loudness_low compared to the state of euthymia.;1.0;2.0;only spectralflux - Quartiles
+Most tone_high calls in hipomania are loudness_medium compared to the state of euthymia.;0.0;2.0;only spectralflux - Quartiles
+Minority tone_high calls in hipomania are loudness_medium compared to the state of euthymia.;1.0;2.0;only spectralflux - Quartiles
+Most tone_high calls in hipomania are loudness_high compared to the state of euthymia.;0.0;2.0;only spectralflux - Quartiles
+Minority tone_high calls in hipomania are loudness_high compared to the state of euthymia.;1.0;2.0;only spectralflux - Quartiles
+Most tone_high calls in hipomania are quality_low compared to the state of euthymia.;0.3333333333333333;2.0;only spectralflux - Quartiles
+Minority of tone_high calls in hipomania are quality_low compared to the state of euthymia.;0.0;2.0;only spectralflux - Quartiles
+Most tone_high calls in hipomania are quality_medium compared to the state of euthymia.;0.0;2.0;only spectralflux - Quartiles
+Minority of tone_high calls in hipomania are quality_medium compared to the state of euthymia.;1.0;2.0;only spectralflux - Quartiles
+Most tone_high calls in hipomania are quality_high compared to the state of euthymia.;0.0;2.0;only spectralflux - Quartiles
+Minority of tone_high calls in hipomania are quality_high compared to the state of euthymia.;1.0;2.0;only spectralflux - Quartiles
+Most spectrum_low calls in hipomania are tone_low compared to the state of euthymia.;0.0;2.0;only spectralflux - Quartiles
+Minority of spectrum_low calls in hipomania are tone_low compared to the state of euthymia.;0.5622163250028538;2.0;only spectralflux - Quartiles
+Most spectrum_low calls in hipomania are tone_medium compared to the state of euthymia.;0.0;2.0;only spectralflux - Quartiles
+Minority of spectrum_low calls in hipomania are tone_medium compared to the state of euthymia.;1.0;2.0;only spectralflux - Quartiles
+Most spectrum_low calls in hipomania are tone_high compared to the state of euthymia.;0.0;2.0;only spectralflux - Quartiles
+Minority of spectrum_low calls in hipomania are tone_high compared to the state of euthymia.;1.0;2.0;only spectralflux - Quartiles
+Most spectrum_low calls in hipomania are loudness_low compared to the state of euthymia.;1.0;2.0;only spectralflux - Quartiles
+Minority of spectrum_low calls in hipomania are loudness_low compared to the state of euthymia.;0.0;2.0;only spectralflux - Quartiles
+Most spectrum_low calls in hipomania are loudness_medium compared to the state of euthymia.;0.0;2.0;only spectralflux - Quartiles
+Minority of spectrum_low calls in hipomania are loudness_medium compared to the state of euthymia.;1.0;2.0;only spectralflux - Quartiles
+Most spectrum_low calls in hipomania are loudness_high compared to the state of euthymia.;0.0;2.0;only spectralflux - Quartiles
+Minority of spectrum_low calls in hipomania are loudness_high compared to the state of euthymia.;1.0;2.0;only spectralflux - Quartiles
+Most spectrum_low calls in hipomania are quality_low compared to the state of euthymia.;1.0;2.0;only spectralflux - Quartiles
+Minority of spectrum_low calls in hipomania are quality_low compared to the state of euthymia.;0.0;2.0;only spectralflux - Quartiles
+Most spectrum_low calls in hipomania are quality_medium compared to the state of euthymia.;0.0;2.0;only spectralflux - Quartiles
+Minority of spectrum_low calls in hipomania are quality_medium compared to the state of euthymia.;1.0;2.0;only spectralflux - Quartiles
+Most spectrum_low calls in hipomania are quality_high compared to the state of euthymia.;0.0;2.0;only spectralflux - Quartiles
+Minority of spectrum_low calls in hipomania are quality_high compared to the state of euthymia.;1.0;2.0;only spectralflux - Quartiles
+Most spectrum_medium calls in hipomania are tone_low compared to the state of euthymia.;0.0;2.0;only spectralflux - Quartiles
+Minority of spectrum_medium calls in hipomania are tone_low compared to the state of euthymia.;1.0;2.0;only spectralflux - Quartiles
+Most spectrum_medium calls in hipomania are tone_medium compared to the state of euthymia.;0.0;2.0;only spectralflux - Quartiles
+Minority of spectrum_medium calls in hipomania are tone_medium compared to the state of euthymia.;1.0;2.0;only spectralflux - Quartiles
+Most spectrum_medium calls in hipomania are tone_high compared to the state of euthymia.;0.0;2.0;only spectralflux - Quartiles
+Minority of spectrum_medium calls in hipomania are tone_high compared to the state of euthymia.;0.7789339219647415;2.0;only spectralflux - Quartiles
+Most spectrum_medium calls in hipomania are loudness_low compared to the state of euthymia.;0.0;2.0;only spectralflux - Quartiles
+Minority of spectrum_medium calls in hipomania are loudness_low compared to the state of euthymia.;1.0;2.0;only spectralflux - Quartiles
+Most spectrum_medium calls in hipomania are loudness_medium compared to the state of euthymia.;0.0;2.0;only spectralflux - Quartiles
+Minority of spectrum_medium calls in hipomania are loudness_medium compared to the state of euthymia.;1.0;2.0;only spectralflux - Quartiles
+Most spectrum_medium calls in hipomania are loudness_high compared to the state of euthymia.;0.0;2.0;only spectralflux - Quartiles
+Minority of spectrum_medium calls in hipomania are loudness_high compared to the state of euthymia.;1.0;2.0;only spectralflux - Quartiles
+Most spectrum_medium calls in hipomania are quality_low compared to the state of euthymia.;0.0;2.0;only spectralflux - Quartiles
+Minority of spectrum_medium calls in hipomania are quality_low compared to the state of euthymia.;1.0;2.0;only spectralflux - Quartiles
+Most spectrum_medium calls in hipomania are quality_medium compared to the state of euthymia.;0.0;2.0;only spectralflux - Quartiles
+Minority of spectrum_medium calls in hipomania are quality_medium compared to the state of euthymia.;1.0;2.0;only spectralflux - Quartiles
+Most spectrum_medium calls in hipomania are quality_high compared to the state of euthymia.;0.0;2.0;only spectralflux - Quartiles
+Minority of spectrum_medium calls in hipomania are quality_high compared to the state of euthymia.;0.830391637438451;2.0;only spectralflux - Quartiles
+Most spectrum_high calls in hipomania are tone_low compared to the state of euthymia.;0.0;2.0;only spectralflux - Quartiles
+Minority of spectrum_high calls in hipomania are tone_low compared to the state of euthymia.;1.0;2.0;only spectralflux - Quartiles
+Most spectrum_high calls in hipomania are tone_medium compared to the state of euthymia.;0.0;2.0;only spectralflux - Quartiles
+Minority of spectrum_high calls in hipomania are tone_medium compared to the state of euthymia.;1.0;2.0;only spectralflux - Quartiles
+Most spectrum_high calls in hipomania are tone_high compared to the state of euthymia.;0.0;2.0;only spectralflux - Quartiles
+Minority of spectrum_high calls in hipomania are tone_high compared to the state of euthymia.;1.0;2.0;only spectralflux - Quartiles
+Most spectrum_high calls in hipomania are loudness_low compared to the state of euthymia.;0.0;2.0;only spectralflux - Quartiles
+Minority of spectrum_high calls in hipomania are loudness_low compared to the state of euthymia.;1.0;2.0;only spectralflux - Quartiles
+Most spectrum_high calls in hipomania are loudness_medium compared to the state of euthymia.;0.0;2.0;only spectralflux - Quartiles
+Minority of spectrum_high calls in hipomania are loudness_medium compared to the state of euthymia.;1.0;2.0;only spectralflux - Quartiles
+Most spectrum_high calls in hipomania are loudness_high compared to the state of euthymia.;1.0;2.0;only spectralflux - Quartiles
+Minority of spectrum_high calls in hipomania are loudness_high compared to the state of euthymia.;0.0;2.0;only spectralflux - Quartiles
+Most spectrum_high calls in hipomania are quality_low compared to the state of euthymia.;0.0;2.0;only spectralflux - Quartiles
+Minority of spectrum_high calls in hipomania are quality_low compared to the state of euthymia.;1.0;2.0;only spectralflux - Quartiles
+Most spectrum_high calls in hipomania are quality_medium compared to the state of euthymia.;0.0;2.0;only spectralflux - Quartiles
+Minority of spectrum_high calls in hipomania are quality_medium compared to the state of euthymia.;1.0;2.0;only spectralflux - Quartiles
+Most spectrum_high calls in hipomania are quality_high compared to the state of euthymia.;1.0;2.0;only spectralflux - Quartiles
+Minority of spectrum_high calls in hipomania are quality_high compared to the state of euthymia.;0.0;2.0;only spectralflux - Quartiles
+Most quality_low calls in hipomania are tone_low compared to the state of euthymia.;0.0;2.0;only spectralflux - Quartiles
+Minority of quality_low calls in hipomania are tone_low compared to the state of euthymia.;0.4872216324431844;2.0;only spectralflux - Quartiles
+Most quality_low calls in hipomania are tone_medium compared to the state of euthymia.;0.0;2.0;only spectralflux - Quartiles
+Minority of quality_low calls in hipomania are tone_medium compared to the state of euthymia.;1.0;2.0;only spectralflux - Quartiles
+Most quality_low calls in hipomania are tone_high compared to the state of euthymia.;0.0;2.0;only spectralflux - Quartiles
+Minority of quality_low calls in hipomania are tone_high compared to the state of euthymia.;1.0;2.0;only spectralflux - Quartiles
+Most quality_low calls in hipomania are loudness_low compared to the state of euthymia.;1.0;2.0;only spectralflux - Quartiles
+Minority of quality_low calls in hipomania are loudness_low compared to the state of euthymia.;0.0;2.0;only spectralflux - Quartiles
+Most quality_low calls in hipomania are loudness_medium compared to the state of euthymia.;0.0;2.0;only spectralflux - Quartiles
+Minority of quality_low calls in hipomania are loudness_medium compared to the state of euthymia.;1.0;2.0;only spectralflux - Quartiles
+Most quality_low calls in hipomania are loudness_high compared to the state of euthymia.;0.0;2.0;only spectralflux - Quartiles
+Minority of quality_low calls in hipomania are loudness_high compared to the state of euthymia.;1.0;2.0;only spectralflux - Quartiles
+Most quality_low calls in hipomania are spectrum_low compared to the state of euthymia.;1.0;2.0;only spectralflux - Quartiles
+Minority of quality_low calls in hipomania are spectrum_low compared to the state of euthymia.;0.0;2.0;only spectralflux - Quartiles
+Most quality_low calls in hipomania are spectrum_medium compared to the state of euthymia.;0.0;2.0;only spectralflux - Quartiles
+Minority of quality_low calls in hipomania are spectrum_medium compared to the state of euthymia.;1.0;2.0;only spectralflux - Quartiles
+Most quality_low calls in hipomania are spectrum_high compared to the state of euthymia.;0.0;2.0;only spectralflux - Quartiles
+Minority of quality_low calls in hipomania are spectrum_high compared to the state of euthymia.;1.0;2.0;only spectralflux - Quartiles
+Most quality_medium calls in hipomania are tone_low compared to the state of euthymia.;0.0;2.0;only spectralflux - Quartiles
+Minority of quality_medium calls in hipomania are tone_low compared to the state of euthymia.;1.0;2.0;only spectralflux - Quartiles
+Most quality_medium calls in hipomania are tone_medium compared to the state of euthymia.;0.0;2.0;only spectralflux - Quartiles
+Minority of quality_medium calls in hipomania are tone_medium compared to the state of euthymia.;1.0;2.0;only spectralflux - Quartiles
+Most quality_medium calls in hipomania are tone_high compared to the state of euthymia.;0.0;2.0;only spectralflux - Quartiles
+Minority of quality_medium calls in hipomania are tone_high compared to the state of euthymia.;1.0;2.0;only spectralflux - Quartiles
+Most quality_medium calls in hipomania are loudness_low compared to the state of euthymia.;0.0;2.0;only spectralflux - Quartiles
+Minority of quality_medium calls in hipomania are loudness_low compared to the state of euthymia.;1.0;2.0;only spectralflux - Quartiles
+Most quality_medium calls in hipomania are loudness_medium compared to the state of euthymia.;0.0;2.0;only spectralflux - Quartiles
+Minority of quality_medium calls in hipomania are loudness_medium compared to the state of euthymia.;1.0;2.0;only spectralflux - Quartiles
+Most quality_medium calls in hipomania are loudness_high compared to the state of euthymia.;0.0;2.0;only spectralflux - Quartiles
+Minority of quality_medium calls in hipomania are loudness_high compared to the state of euthymia.;1.0;2.0;only spectralflux - Quartiles
+Most quality_medium calls in hipomania are spectrum_low compared to the state of euthymia.;0.0;2.0;only spectralflux - Quartiles
+Minority of quality_medium calls in hipomania are spectrum_low compared to the state of euthymia.;1.0;2.0;only spectralflux - Quartiles
+Most quality_medium calls in hipomania are spectrum_medium compared to the state of euthymia.;0.0;2.0;only spectralflux - Quartiles
+Minority of quality_medium calls in hipomania are spectrum_medium compared to the state of euthymia.;1.0;2.0;only spectralflux - Quartiles
+Most quality_medium calls in hipomania are spectrum_high compared to the state of euthymia.;0.0;2.0;only spectralflux - Quartiles
+Minority of quality_medium calls in hipomania are spectrum_high compared to the state of euthymia.;1.0;2.0;only spectralflux - Quartiles
+Most quality_high calls in hipomania are tone_low compared to the state of euthymia.;0.0;2.0;only spectralflux - Quartiles
+Minority of quality_high calls in hipomania are tone_low compared to the state of euthymia.;1.0;2.0;only spectralflux - Quartiles
+Most quality_high calls in hipomania are tone_medium compared to the state of euthymia.;0.0;2.0;only spectralflux - Quartiles
+Minority of quality_high calls in hipomania are tone_medium compared to the state of euthymia.;1.0;2.0;only spectralflux - Quartiles
+Most quality_high calls in hipomania are tone_high compared to the state of euthymia.;0.0;2.0;only spectralflux - Quartiles
+Minority of quality_high calls in hipomania are tone_high compared to the state of euthymia.;1.0;2.0;only spectralflux - Quartiles
+Most quality_high calls in hipomania are loudness_low compared to the state of euthymia.;0.0;2.0;only spectralflux - Quartiles
+Minority of quality_high calls in hipomania are loudness_low compared to the state of euthymia.;1.0;2.0;only spectralflux - Quartiles
+Most quality_high calls in hipomania are loudness_medium compared to the state of euthymia.;0.0;2.0;only spectralflux - Quartiles
+Minority of quality_high calls in hipomania are loudness_medium compared to the state of euthymia.;1.0;2.0;only spectralflux - Quartiles
+Most quality_high calls in hipomania are loudness_high compared to the state of euthymia.;1.0;2.0;only spectralflux - Quartiles
+Minority of quality_high calls in hipomania are loudness_high compared to the state of euthymia.;0.0;2.0;only spectralflux - Quartiles
+Most quality_high calls in hipomania are spectrum_low compared to the state of euthymia.;0.0;2.0;only spectralflux - Quartiles
+Minority of quality_high calls in hipomania are spectrum_low compared to the state of euthymia.;1.0;2.0;only spectralflux - Quartiles
+Most quality_high calls in hipomania are spectrum_medium compared to the state of euthymia.;0.0;2.0;only spectralflux - Quartiles
+Minority of quality_high calls in hipomania are spectrum_medium compared to the state of euthymia.;1.0;2.0;only spectralflux - Quartiles
+Most quality_high calls in hipomania are spectrum_high compared to the state of euthymia.;1.0;2.0;only spectralflux - Quartiles
+Minority of quality_high calls in hipomania are spectrum_high compared to the state of euthymia.;0.0;2.0;only spectralflux - Quartiles
+Most calls in mania are spectrum_low compared to the state of euthymia.;0.9996091514803886;1.0;only spectralflux - Interval
+Most calls in mania are loudness_low compared to the state of euthymia.;0.0;1.0;only spectralflux - Interval
+Most calls in mania are tone_low compared to the state of euthymia.;0.0;1.0;only spectralflux - Interval
+Most calls in mania are quality_low compared to the state of euthymia.;0.0;1.0;only spectralflux - Interval
+Minority of calls in mania are spectrum_low compared to the state of euthymia.;0.0;1.0;only spectralflux - Interval
+Minority of calls in mania are loudness_low compared to the state of euthymia.;0.37188774439300554;1.0;only spectralflux - Interval
+Minority of calls in mania are tone_low compared to the state of euthymia.;1.0;1.0;only spectralflux - Interval
+Minority of calls in mania are quality_low compared to the state of euthymia.;1.0;1.0;only spectralflux - Interval
+Most calls in mania are spectrum_medium compared to the state of euthymia.;0.0;1.0;only spectralflux - Interval
+Most calls in mania are loudness_medium compared to the state of euthymia.;0.0;1.0;only spectralflux - Interval
+Most calls in mania are tone_medium compared to the state of euthymia.;0.0;1.0;only spectralflux - Interval
+Most calls in mania are quality_medium compared to the state of euthymia.;0.0;1.0;only spectralflux - Interval
+Minority of calls in mania are spectrum_medium compared to the state of euthymia.;1.0;1.0;only spectralflux - Interval
+Minority of calls in mania are loudness_medium compared to the state of euthymia.;1.0;1.0;only spectralflux - Interval
+Minority of calls in mania are tone_medium compared to the state of euthymia.;1.0;1.0;only spectralflux - Interval
+Minority of calls in mania are quality_medium compared to the state of euthymia.;1.0;1.0;only spectralflux - Interval
+Most calls in mania are spectrum_high compared to the state of euthymia.;0.0;1.0;only spectralflux - Interval
+Most calls in mania are loudness_high compared to the state of euthymia.;0.0;1.0;only spectralflux - Interval
+Most calls in mania are tone_high compared to the state of euthymia.;0.0;1.0;only spectralflux - Interval
+Most calls in mania are quality_high compared to the state of euthymia.;0.0;1.0;only spectralflux - Interval
+Minority of calls in mania are spectrum_high compared to the state of euthymia.;1.0;1.0;only spectralflux - Interval
+Minority of calls in mania are loudness_high compared to the state of euthymia.;1.0;1.0;only spectralflux - Interval
+Minority of calls in mania are tone_high compared to the state of euthymia.;1.0;1.0;only spectralflux - Interval
+Minority of calls in mania are quality_high compared to the state of euthymia.;1.0;1.0;only spectralflux - Interval
+Most loudness_low calls in mania are spectrum_low compared to the state of euthymia.;1.0;2.0;only spectralflux - Interval
+Minority of loudness_low calls in mania are spectrum_low compared to the state of euthymia.;0.0;2.0;only spectralflux - Interval
+Most loudness_low calls in mania are spectrum_medium compared to the state of euthymia.;0.0;2.0;only spectralflux - Interval
+Minority of loudness_low calls in mania are spectrum_medium compared to the state of euthymia.;1.0;2.0;only spectralflux - Interval
+Most loudness_low calls in mania are spectrum_high compared to the state of euthymia.;0.0;2.0;only spectralflux - Interval
+Minority of loudness_low calls in mania are spectrum_high compared to the state of euthymia.;1.0;2.0;only spectralflux - Interval
+Most loudness_low calls in mania are tone_low compared to the state of euthymia.;0.0;2.0;only spectralflux - Interval
+Minority of loudness_low calls in mania are tone_low compared to the state of euthymia.;1.0;2.0;only spectralflux - Interval
+Most loudness_low calls in mania are tone_medium compared to the state of euthymia.;0.0;2.0;only spectralflux - Interval
+Minority of loudness_low calls in mania are tone_medium compared to the state of euthymia.;1.0;2.0;only spectralflux - Interval
+Most loudness_low calls in mania are tone_high compared to the state of euthymia.;0.0;2.0;only spectralflux - Interval
+Minority of loudness_low calls in mania are tone_high compared to the state of euthymia.;1.0;2.0;only spectralflux - Interval
+Most loudness_low calls in mania are quality_low compared to the state of euthymia.;0.0;2.0;only spectralflux - Interval
+Minority of loudness_low calls in mania are quality_low compared to the state of euthymia.;0.3690985142995553;2.0;only spectralflux - Interval
+Most loudness_low calls in mania are quality_medium compared to the state of euthymia.;0.0;2.0;only spectralflux - Interval
+Minority of loudness_low calls in mania are quality_medium compared to the state of euthymia.;1.0;2.0;only spectralflux - Interval
+Most loudness_low calls in mania are quality_high compared to the state of euthymia.;0.0;2.0;only spectralflux - Interval
+Minority of loudness_low calls in mania are quality_high compared to the state of euthymia.;1.0;2.0;only spectralflux - Interval
+Most loudness_medium calls in mania are spectrum_low compared to the state of euthymia.;1.0;2.0;only spectralflux - Interval
+Minority of loudness_medium calls in mania are spectrum_low compared to the state of euthymia.;0.0;2.0;only spectralflux - Interval
+Most loudness_medium calls in mania are spectrum_medium compared to the state of euthymia.;0.0;2.0;only spectralflux - Interval
+Minority of loudness_medium calls in mania are spectrum_medium compared to the state of euthymia.;0.7144840442341696;2.0;only spectralflux - Interval
+Most loudness_medium calls in mania are spectrum_high compared to the state of euthymia.;0.0;2.0;only spectralflux - Interval
+Minority of loudness_medium calls in mania are spectrum_high compared to the state of euthymia.;1.0;2.0;only spectralflux - Interval
+Most loudness_medium calls in mania are tone_low compared to the state of euthymia.;0.0;2.0;only spectralflux - Interval
+Minority of loudness_medium calls in mania are tone_low compared to the state of euthymia.;1.0;2.0;only spectralflux - Interval
+Most loudness_medium calls in mania are tone_medium compared to the state of euthymia.;0.0;2.0;only spectralflux - Interval
+Minority of loudness_medium calls in mania are tone_medium compared to the state of euthymia.;1.0;2.0;only spectralflux - Interval
+Most loudness_medium calls in mania are tone_high compared to the state of euthymia.;0.0;2.0;only spectralflux - Interval
+Minority of loudness_medium calls in mania are tone_high compared to the state of euthymia.;1.0;2.0;only spectralflux - Interval
+Most loudness_medium calls in mania are quality_low compared to the state of euthymia.;0.0;2.0;only spectralflux - Interval
+Minority of loudness_medium calls in mania are quality_low compared to the state of euthymia.;1.0;2.0;only spectralflux - Interval
+Most loudness_medium calls in mania are quality_medium compared to the state of euthymia.;0.0;2.0;only spectralflux - Interval
+Minority of loudness_medium calls in mania are quality_medium compared to the state of euthymia.;0.5114176570120703;2.0;only spectralflux - Interval
+Most loudness_medium calls in mania are quality_high compared to the state of euthymia.;0.0;2.0;only spectralflux - Interval
+Minority of loudness_medium calls in mania are quality_high compared to the state of euthymia.;1.0;2.0;only spectralflux - Interval
+Most loudness_high calls in mania are spectrum_low compared to the state of euthymia.;0.0;2.0;only spectralflux - Interval
+Minority of loudness_high calls in mania are spectrum_low compared to the state of euthymia.;1.0;2.0;only spectralflux - Interval
+Most loudness_high calls in mania are spectrum_medium compared to the state of euthymia.;0.0;2.0;only spectralflux - Interval
+Minority of loudness_high calls in mania are spectrum_medium compared to the state of euthymia.;0.8971746801846767;2.0;only spectralflux - Interval
+Most loudness_high calls in mania are spectrum_high compared to the state of euthymia.;1.0;2.0;only spectralflux - Interval
+Minority of loudness_high calls in mania are spectrum_high compared to the state of euthymia.;0.0;2.0;only spectralflux - Interval
+Most loudness_high calls in mania are tone_low compared to the state of euthymia.;0.0;2.0;only spectralflux - Interval
+Minority of loudness_high calls in mania are tone_low compared to the state of euthymia.;1.0;2.0;only spectralflux - Interval
+Most loudness_high calls in mania are tone_medium compared to the state of euthymia.;0.0;2.0;only spectralflux - Interval
+Minority of loudness_high calls in mania are tone_medium compared to the state of euthymia.;1.0;2.0;only spectralflux - Interval
+Most loudness_high calls in mania are tone_high compared to the state of euthymia.;0.0;2.0;only spectralflux - Interval
+Minority of loudness_high calls in mania are tone_high compared to the state of euthymia.;1.0;2.0;only spectralflux - Interval
+Most loudness_high calls in mania are quality_low compared to the state of euthymia.;0.0;2.0;only spectralflux - Interval
+Minority of loudness_high calls in mania are quality_low compared to the state of euthymia.;1.0;2.0;only spectralflux - Interval
+Most loudness_high calls in mania are quality_medium compared to the state of euthymia.;0.0;2.0;only spectralflux - Interval
+Minority of loudness_high calls in mania are quality_medium compared to the state of euthymia.;1.0;2.0;only spectralflux - Interval
+Most loudness_high calls in mania are quality_high compared to the state of euthymia.;0.0;2.0;only spectralflux - Interval
+Minority of loudness_high calls in mania are quality_high compared to the state of euthymia.;0.873383658421564;2.0;only spectralflux - Interval
+Most tone_low calls in mania are spectrum_low compared to the state of euthymia.;1.0;2.0;only spectralflux - Interval
+Minority of tone_low calls in mania are spectrum_low compared to the state of euthymia.;0.0;2.0;only spectralflux - Interval
+Most tone_low calls in mania are spectrum_medium compared to the state of euthymia.;0.0;2.0;only spectralflux - Interval
+Minority of tone_low calls in mania are spectrum_medium compared to the state of euthymia.;1.0;2.0;only spectralflux - Interval
+Most tone_low calls in mania are spectrum_high compared to the state of euthymia.;0.0;2.0;only spectralflux - Interval
+Minority of tone_low calls in mania are spectrum_high compared to the state of euthymia.;1.0;2.0;only spectralflux - Interval
+Most tone_low calls in mania are loudness_low compared to the state of euthymia.;1.0;2.0;only spectralflux - Interval
+Minority tone_low calls in mania are loudness_low compared to the state of euthymia.;0.0;2.0;only spectralflux - Interval
+Most tone_low calls in mania are loudness_medium compared to the state of euthymia.;0.0;2.0;only spectralflux - Interval
+Minority tone_low calls in mania are loudness_medium compared to the state of euthymia.;1.0;2.0;only spectralflux - Interval
+Most tone_low calls in mania are loudness_high compared to the state of euthymia.;0.0;2.0;only spectralflux - Interval
+Minority tone_low calls in mania are loudness_high compared to the state of euthymia.;1.0;2.0;only spectralflux - Interval
+Most tone_low calls in mania are quality_low compared to the state of euthymia.;0.9806532587324867;2.0;only spectralflux - Interval
+Minority of tone_low calls in mania are quality_low compared to the state of euthymia.;0.0;2.0;only spectralflux - Interval
+Most tone_low calls in mania are quality_medium compared to the state of euthymia.;0.0;2.0;only spectralflux - Interval
+Minority of tone_low calls in mania are quality_medium compared to the state of euthymia.;1.0;2.0;only spectralflux - Interval
+Most tone_low calls in mania are quality_high compared to the state of euthymia.;0.0;2.0;only spectralflux - Interval
+Minority of tone_low calls in mania are quality_high compared to the state of euthymia.;0.7673032240397171;2.0;only spectralflux - Interval
+Most tone_medium calls in mania are spectrum_low compared to the state of euthymia.;1.0;2.0;only spectralflux - Interval
+Minority of tone_medium calls in mania are spectrum_low compared to the state of euthymia.;0.0;2.0;only spectralflux - Interval
+Most tone_medium calls in mania are spectrum_medium compared to the state of euthymia.;0.0;2.0;only spectralflux - Interval
+Minority of tone_medium calls in mania are spectrum_medium compared to the state of euthymia.;1.0;2.0;only spectralflux - Interval
+Most tone_medium calls in mania are spectrum_high compared to the state of euthymia.;0.0;2.0;only spectralflux - Interval
+Minority of tone_medium calls in mania are spectrum_high compared to the state of euthymia.;1.0;2.0;only spectralflux - Interval
+Most tone_medium calls in mania are loudness_low compared to the state of euthymia.;1.0;2.0;only spectralflux - Interval
+Minority tone_medium calls in mania are loudness_low compared to the state of euthymia.;0.0;2.0;only spectralflux - Interval
+Most tone_medium calls in mania are loudness_medium compared to the state of euthymia.;0.0;2.0;only spectralflux - Interval
+Minority tone_medium calls in mania are loudness_medium compared to the state of euthymia.;1.0;2.0;only spectralflux - Interval
+Most tone_medium calls in mania are loudness_high compared to the state of euthymia.;0.0;2.0;only spectralflux - Interval
+Minority tone_medium calls in mania are loudness_high compared to the state of euthymia.;1.0;2.0;only spectralflux - Interval
+Most tone_medium calls in mania are quality_low compared to the state of euthymia.;0.0;2.0;only spectralflux - Interval
+Minority of tone_medium calls in mania are quality_low compared to the state of euthymia.;1.0;2.0;only spectralflux - Interval
+Most tone_medium calls in mania are quality_medium compared to the state of euthymia.;0.0;2.0;only spectralflux - Interval
+Minority of tone_medium calls in mania are quality_medium compared to the state of euthymia.;0.43143272580928205;2.0;only spectralflux - Interval
+Most tone_medium calls in mania are quality_high compared to the state of euthymia.;0.0;2.0;only spectralflux - Interval
+Minority of tone_medium calls in mania are quality_high compared to the state of euthymia.;1.0;2.0;only spectralflux - Interval
+Most tone_high calls in mania are spectrum_low compared to the state of euthymia.;1.0;2.0;only spectralflux - Interval
+Minority of tone_high calls in mania are spectrum_low compared to the state of euthymia.;0.0;2.0;only spectralflux - Interval
+Most tone_high calls in mania are spectrum_medium compared to the state of euthymia.;0.0;2.0;only spectralflux - Interval
+Minority of tone_high calls in mania are spectrum_medium compared to the state of euthymia.;1.0;2.0;only spectralflux - Interval
+Most tone_high calls in mania are spectrum_high compared to the state of euthymia.;0.0;2.0;only spectralflux - Interval
+Minority of tone_high calls in mania are spectrum_high compared to the state of euthymia.;1.0;2.0;only spectralflux - Interval
+Most tone_high calls in mania are loudness_low compared to the state of euthymia.;1.0;2.0;only spectralflux - Interval
+Minority tone_high calls in mania are loudness_low compared to the state of euthymia.;0.0;2.0;only spectralflux - Interval
+Most tone_high calls in mania are loudness_medium compared to the state of euthymia.;0.0;2.0;only spectralflux - Interval
+Minority tone_high calls in mania are loudness_medium compared to the state of euthymia.;1.0;2.0;only spectralflux - Interval
+Most tone_high calls in mania are loudness_high compared to the state of euthymia.;0.0;2.0;only spectralflux - Interval
+Minority tone_high calls in mania are loudness_high compared to the state of euthymia.;1.0;2.0;only spectralflux - Interval
+Most tone_high calls in mania are quality_low compared to the state of euthymia.;0.0;2.0;only spectralflux - Interval
+Minority of tone_high calls in mania are quality_low compared to the state of euthymia.;0.624208581330499;2.0;only spectralflux - Interval
+Most tone_high calls in mania are quality_medium compared to the state of euthymia.;0.0;2.0;only spectralflux - Interval
+Minority of tone_high calls in mania are quality_medium compared to the state of euthymia.;1.0;2.0;only spectralflux - Interval
+Most tone_high calls in mania are quality_high compared to the state of euthymia.;0.0;2.0;only spectralflux - Interval
+Minority of tone_high calls in mania are quality_high compared to the state of euthymia.;0.8678214488677318;2.0;only spectralflux - Interval
+Most spectrum_low calls in mania are tone_low compared to the state of euthymia.;0.0;2.0;only spectralflux - Interval
+Minority of spectrum_low calls in mania are tone_low compared to the state of euthymia.;1.0;2.0;only spectralflux - Interval
+Most spectrum_low calls in mania are tone_medium compared to the state of euthymia.;0.0;2.0;only spectralflux - Interval
+Minority of spectrum_low calls in mania are tone_medium compared to the state of euthymia.;1.0;2.0;only spectralflux - Interval
+Most spectrum_low calls in mania are tone_high compared to the state of euthymia.;0.0;2.0;only spectralflux - Interval
+Minority of spectrum_low calls in mania are tone_high compared to the state of euthymia.;1.0;2.0;only spectralflux - Interval
+Most spectrum_low calls in mania are loudness_low compared to the state of euthymia.;1.0;2.0;only spectralflux - Interval
+Minority of spectrum_low calls in mania are loudness_low compared to the state of euthymia.;0.0;2.0;only spectralflux - Interval
+Most spectrum_low calls in mania are loudness_medium compared to the state of euthymia.;0.0;2.0;only spectralflux - Interval
+Minority of spectrum_low calls in mania are loudness_medium compared to the state of euthymia.;1.0;2.0;only spectralflux - Interval
+Most spectrum_low calls in mania are loudness_high compared to the state of euthymia.;0.0;2.0;only spectralflux - Interval
+Minority of spectrum_low calls in mania are loudness_high compared to the state of euthymia.;1.0;2.0;only spectralflux - Interval
+Most spectrum_low calls in mania are quality_low compared to the state of euthymia.;0.0;2.0;only spectralflux - Interval
+Minority of spectrum_low calls in mania are quality_low compared to the state of euthymia.;0.8512696052592441;2.0;only spectralflux - Interval
+Most spectrum_low calls in mania are quality_medium compared to the state of euthymia.;0.0;2.0;only spectralflux - Interval
+Minority of spectrum_low calls in mania are quality_medium compared to the state of euthymia.;1.0;2.0;only spectralflux - Interval
+Most spectrum_low calls in mania are quality_high compared to the state of euthymia.;0.0;2.0;only spectralflux - Interval
+Minority of spectrum_low calls in mania are quality_high compared to the state of euthymia.;1.0;2.0;only spectralflux - Interval
+Most spectrum_medium calls in mania are tone_low compared to the state of euthymia.;0.0;2.0;only spectralflux - Interval
+Minority of spectrum_medium calls in mania are tone_low compared to the state of euthymia.;1.0;2.0;only spectralflux - Interval
+Most spectrum_medium calls in mania are tone_medium compared to the state of euthymia.;0.0;2.0;only spectralflux - Interval
+Minority of spectrum_medium calls in mania are tone_medium compared to the state of euthymia.;1.0;2.0;only spectralflux - Interval
+Most spectrum_medium calls in mania are tone_high compared to the state of euthymia.;0.0;2.0;only spectralflux - Interval
+Minority of spectrum_medium calls in mania are tone_high compared to the state of euthymia.;1.0;2.0;only spectralflux - Interval
+Most spectrum_medium calls in mania are loudness_low compared to the state of euthymia.;0.0;2.0;only spectralflux - Interval
+Minority of spectrum_medium calls in mania are loudness_low compared to the state of euthymia.;1.0;2.0;only spectralflux - Interval
+Most spectrum_medium calls in mania are loudness_medium compared to the state of euthymia.;0.0;2.0;only spectralflux - Interval
+Minority of spectrum_medium calls in mania are loudness_medium compared to the state of euthymia.;1.0;2.0;only spectralflux - Interval
+Most spectrum_medium calls in mania are loudness_high compared to the state of euthymia.;0.0;2.0;only spectralflux - Interval
+Minority of spectrum_medium calls in mania are loudness_high compared to the state of euthymia.;0.5503823621499366;2.0;only spectralflux - Interval
+Most spectrum_medium calls in mania are quality_low compared to the state of euthymia.;0.0;2.0;only spectralflux - Interval
+Minority of spectrum_medium calls in mania are quality_low compared to the state of euthymia.;1.0;2.0;only spectralflux - Interval
+Most spectrum_medium calls in mania are quality_medium compared to the state of euthymia.;0.0;2.0;only spectralflux - Interval
+Minority of spectrum_medium calls in mania are quality_medium compared to the state of euthymia.;1.0;2.0;only spectralflux - Interval
+Most spectrum_medium calls in mania are quality_high compared to the state of euthymia.;0.0;2.0;only spectralflux - Interval
+Minority of spectrum_medium calls in mania are quality_high compared to the state of euthymia.;0.7356694778679895;2.0;only spectralflux - Interval
+Most spectrum_high calls in mania are tone_low compared to the state of euthymia.;0.0;2.0;only spectralflux - Interval
+Minority of spectrum_high calls in mania are tone_low compared to the state of euthymia.;1.0;2.0;only spectralflux - Interval
+Most spectrum_high calls in mania are tone_medium compared to the state of euthymia.;0.0;2.0;only spectralflux - Interval
+Minority of spectrum_high calls in mania are tone_medium compared to the state of euthymia.;1.0;2.0;only spectralflux - Interval
+Most spectrum_high calls in mania are tone_high compared to the state of euthymia.;0.0;2.0;only spectralflux - Interval
+Minority of spectrum_high calls in mania are tone_high compared to the state of euthymia.;1.0;2.0;only spectralflux - Interval
+Most spectrum_high calls in mania are loudness_low compared to the state of euthymia.;0.0;2.0;only spectralflux - Interval
+Minority of spectrum_high calls in mania are loudness_low compared to the state of euthymia.;1.0;2.0;only spectralflux - Interval
+Most spectrum_high calls in mania are loudness_medium compared to the state of euthymia.;0.0;2.0;only spectralflux - Interval
+Minority of spectrum_high calls in mania are loudness_medium compared to the state of euthymia.;1.0;2.0;only spectralflux - Interval
+Most spectrum_high calls in mania are loudness_high compared to the state of euthymia.;0.7684590560611406;2.0;only spectralflux - Interval
+Minority of spectrum_high calls in mania are loudness_high compared to the state of euthymia.;0.0;2.0;only spectralflux - Interval
+Most spectrum_high calls in mania are quality_low compared to the state of euthymia.;0.0;2.0;only spectralflux - Interval
+Minority of spectrum_high calls in mania are quality_low compared to the state of euthymia.;1.0;2.0;only spectralflux - Interval
+Most spectrum_high calls in mania are quality_medium compared to the state of euthymia.;0.0;2.0;only spectralflux - Interval
+Minority of spectrum_high calls in mania are quality_medium compared to the state of euthymia.;1.0;2.0;only spectralflux - Interval
+Most spectrum_high calls in mania are quality_high compared to the state of euthymia.;0.0;2.0;only spectralflux - Interval
+Minority of spectrum_high calls in mania are quality_high compared to the state of euthymia.;0.28456866076571163;2.0;only spectralflux - Interval
+Most quality_low calls in mania are tone_low compared to the state of euthymia.;0.0;2.0;only spectralflux - Interval
+Minority of quality_low calls in mania are tone_low compared to the state of euthymia.;1.0;2.0;only spectralflux - Interval
+Most quality_low calls in mania are tone_medium compared to the state of euthymia.;0.0;2.0;only spectralflux - Interval
+Minority of quality_low calls in mania are tone_medium compared to the state of euthymia.;1.0;2.0;only spectralflux - Interval
+Most quality_low calls in mania are tone_high compared to the state of euthymia.;0.0;2.0;only spectralflux - Interval
+Minority of quality_low calls in mania are tone_high compared to the state of euthymia.;1.0;2.0;only spectralflux - Interval
+Most quality_low calls in mania are loudness_low compared to the state of euthymia.;1.0;2.0;only spectralflux - Interval
+Minority of quality_low calls in mania are loudness_low compared to the state of euthymia.;0.0;2.0;only spectralflux - Interval
+Most quality_low calls in mania are loudness_medium compared to the state of euthymia.;0.0;2.0;only spectralflux - Interval
+Minority of quality_low calls in mania are loudness_medium compared to the state of euthymia.;1.0;2.0;only spectralflux - Interval
+Most quality_low calls in mania are loudness_high compared to the state of euthymia.;0.0;2.0;only spectralflux - Interval
+Minority of quality_low calls in mania are loudness_high compared to the state of euthymia.;1.0;2.0;only spectralflux - Interval
+Most quality_low calls in mania are spectrum_low compared to the state of euthymia.;1.0;2.0;only spectralflux - Interval
+Minority of quality_low calls in mania are spectrum_low compared to the state of euthymia.;0.0;2.0;only spectralflux - Interval
+Most quality_low calls in mania are spectrum_medium compared to the state of euthymia.;0.0;2.0;only spectralflux - Interval
+Minority of quality_low calls in mania are spectrum_medium compared to the state of euthymia.;1.0;2.0;only spectralflux - Interval
+Most quality_low calls in mania are spectrum_high compared to the state of euthymia.;0.0;2.0;only spectralflux - Interval
+Minority of quality_low calls in mania are spectrum_high compared to the state of euthymia.;1.0;2.0;only spectralflux - Interval
+Most quality_medium calls in mania are tone_low compared to the state of euthymia.;0.0;2.0;only spectralflux - Interval
+Minority of quality_medium calls in mania are tone_low compared to the state of euthymia.;1.0;2.0;only spectralflux - Interval
+Most quality_medium calls in mania are tone_medium compared to the state of euthymia.;0.0;2.0;only spectralflux - Interval
+Minority of quality_medium calls in mania are tone_medium compared to the state of euthymia.;1.0;2.0;only spectralflux - Interval
+Most quality_medium calls in mania are tone_high compared to the state of euthymia.;0.0;2.0;only spectralflux - Interval
+Minority of quality_medium calls in mania are tone_high compared to the state of euthymia.;1.0;2.0;only spectralflux - Interval
+Most quality_medium calls in mania are loudness_low compared to the state of euthymia.;0.2908089906141469;2.0;only spectralflux - Interval
+Minority of quality_medium calls in mania are loudness_low compared to the state of euthymia.;0.025514605631511866;2.0;only spectralflux - Interval
+Most quality_medium calls in mania are loudness_medium compared to the state of euthymia.;0.0;2.0;only spectralflux - Interval
+Minority of quality_medium calls in mania are loudness_medium compared to the state of euthymia.;1.0;2.0;only spectralflux - Interval
+Most quality_medium calls in mania are loudness_high compared to the state of euthymia.;0.0;2.0;only spectralflux - Interval
+Minority of quality_medium calls in mania are loudness_high compared to the state of euthymia.;0.9443606476304358;2.0;only spectralflux - Interval
+Most quality_medium calls in mania are spectrum_low compared to the state of euthymia.;1.0;2.0;only spectralflux - Interval
+Minority of quality_medium calls in mania are spectrum_low compared to the state of euthymia.;0.0;2.0;only spectralflux - Interval
+Most quality_medium calls in mania are spectrum_medium compared to the state of euthymia.;0.0;2.0;only spectralflux - Interval
+Minority of quality_medium calls in mania are spectrum_medium compared to the state of euthymia.;1.0;2.0;only spectralflux - Interval
+Most quality_medium calls in mania are spectrum_high compared to the state of euthymia.;0.0;2.0;only spectralflux - Interval
+Minority of quality_medium calls in mania are spectrum_high compared to the state of euthymia.;1.0;2.0;only spectralflux - Interval
+Most quality_high calls in mania are tone_low compared to the state of euthymia.;0.0;2.0;only spectralflux - Interval
+Minority of quality_high calls in mania are tone_low compared to the state of euthymia.;1.0;2.0;only spectralflux - Interval
+Most quality_high calls in mania are tone_medium compared to the state of euthymia.;0.0;2.0;only spectralflux - Interval
+Minority of quality_high calls in mania are tone_medium compared to the state of euthymia.;1.0;2.0;only spectralflux - Interval
+Most quality_high calls in mania are tone_high compared to the state of euthymia.;0.0;2.0;only spectralflux - Interval
+Minority of quality_high calls in mania are tone_high compared to the state of euthymia.;1.0;2.0;only spectralflux - Interval
+Most quality_high calls in mania are loudness_low compared to the state of euthymia.;0.0;2.0;only spectralflux - Interval
+Minority of quality_high calls in mania are loudness_low compared to the state of euthymia.;1.0;2.0;only spectralflux - Interval
+Most quality_high calls in mania are loudness_medium compared to the state of euthymia.;0.0;2.0;only spectralflux - Interval
+Minority of quality_high calls in mania are loudness_medium compared to the state of euthymia.;1.0;2.0;only spectralflux - Interval
+Most quality_high calls in mania are loudness_high compared to the state of euthymia.;0.0;2.0;only spectralflux - Interval
+Minority of quality_high calls in mania are loudness_high compared to the state of euthymia.;0.6041101412665977;2.0;only spectralflux - Interval
+Most quality_high calls in mania are spectrum_low compared to the state of euthymia.;0.0;2.0;only spectralflux - Interval
+Minority of quality_high calls in mania are spectrum_low compared to the state of euthymia.;1.0;2.0;only spectralflux - Interval
+Most quality_high calls in mania are spectrum_medium compared to the state of euthymia.;0.0;2.0;only spectralflux - Interval
+Minority of quality_high calls in mania are spectrum_medium compared to the state of euthymia.;0.8082394860958275;2.0;only spectralflux - Interval
+Most quality_high calls in mania are spectrum_high compared to the state of euthymia.;1.0;2.0;only spectralflux - Interval
+Minority of quality_high calls in mania are spectrum_high compared to the state of euthymia.;0.0;2.0;only spectralflux - Interval
+Most calls in hipomania are spectrum_low compared to the state of euthymia.;1.0;1.0;only spectralflux - Interval
+Most calls in hipomania are loudness_low compared to the state of euthymia.;1.0;1.0;only spectralflux - Interval
+Most calls in hipomania are tone_low compared to the state of euthymia.;0.0;1.0;only spectralflux - Interval
+Most calls in hipomania are quality_low compared to the state of euthymia.;0.0;1.0;only spectralflux - Interval
+Minority of calls in hipomania are spectrum_low compared to the state of euthymia.;0.0;1.0;only spectralflux - Interval
+Minority of calls in hipomania are loudness_low compared to the state of euthymia.;0.0;1.0;only spectralflux - Interval
+Minority of calls in hipomania are tone_low compared to the state of euthymia.;1.0;1.0;only spectralflux - Interval
+Minority of calls in hipomania are quality_low compared to the state of euthymia.;0.22145662554023526;1.0;only spectralflux - Interval
+Most calls in hipomania are spectrum_medium compared to the state of euthymia.;0.0;1.0;only spectralflux - Interval
+Most calls in hipomania are loudness_medium compared to the state of euthymia.;0.0;1.0;only spectralflux - Interval
+Most calls in hipomania are tone_medium compared to the state of euthymia.;0.0;1.0;only spectralflux - Interval
+Most calls in hipomania are quality_medium compared to the state of euthymia.;0.0;1.0;only spectralflux - Interval
+Minority of calls in hipomania are spectrum_medium compared to the state of euthymia.;1.0;1.0;only spectralflux - Interval
+Minority of calls in hipomania are loudness_medium compared to the state of euthymia.;1.0;1.0;only spectralflux - Interval
+Minority of calls in hipomania are tone_medium compared to the state of euthymia.;1.0;1.0;only spectralflux - Interval
+Minority of calls in hipomania are quality_medium compared to the state of euthymia.;1.0;1.0;only spectralflux - Interval
+Most calls in hipomania are spectrum_high compared to the state of euthymia.;0.0;1.0;only spectralflux - Interval
+Most calls in hipomania are loudness_high compared to the state of euthymia.;0.0;1.0;only spectralflux - Interval
+Most calls in hipomania are tone_high compared to the state of euthymia.;0.0;1.0;only spectralflux - Interval
+Most calls in hipomania are quality_high compared to the state of euthymia.;0.0;1.0;only spectralflux - Interval
+Minority of calls in hipomania are spectrum_high compared to the state of euthymia.;1.0;1.0;only spectralflux - Interval
+Minority of calls in hipomania are loudness_high compared to the state of euthymia.;1.0;1.0;only spectralflux - Interval
+Minority of calls in hipomania are tone_high compared to the state of euthymia.;1.0;1.0;only spectralflux - Interval
+Minority of calls in hipomania are quality_high compared to the state of euthymia.;1.0;1.0;only spectralflux - Interval
+Most loudness_low calls in hipomania are spectrum_low compared to the state of euthymia.;1.0;2.0;only spectralflux - Interval
+Minority of loudness_low calls in hipomania are spectrum_low compared to the state of euthymia.;0.0;2.0;only spectralflux - Interval
+Most loudness_low calls in hipomania are spectrum_medium compared to the state of euthymia.;0.0;2.0;only spectralflux - Interval
+Minority of loudness_low calls in hipomania are spectrum_medium compared to the state of euthymia.;1.0;2.0;only spectralflux - Interval
+Most loudness_low calls in hipomania are spectrum_high compared to the state of euthymia.;0.0;2.0;only spectralflux - Interval
+Minority of loudness_low calls in hipomania are spectrum_high compared to the state of euthymia.;1.0;2.0;only spectralflux - Interval
+Most loudness_low calls in hipomania are tone_low compared to the state of euthymia.;0.0;2.0;only spectralflux - Interval
+Minority of loudness_low calls in hipomania are tone_low compared to the state of euthymia.;1.0;2.0;only spectralflux - Interval
+Most loudness_low calls in hipomania are tone_medium compared to the state of euthymia.;0.0;2.0;only spectralflux - Interval
+Minority of loudness_low calls in hipomania are tone_medium compared to the state of euthymia.;1.0;2.0;only spectralflux - Interval
+Most loudness_low calls in hipomania are tone_high compared to the state of euthymia.;0.0;2.0;only spectralflux - Interval
+Minority of loudness_low calls in hipomania are tone_high compared to the state of euthymia.;1.0;2.0;only spectralflux - Interval
+Most loudness_low calls in hipomania are quality_low compared to the state of euthymia.;1.0;2.0;only spectralflux - Interval
+Minority of loudness_low calls in hipomania are quality_low compared to the state of euthymia.;0.0;2.0;only spectralflux - Interval
+Most loudness_low calls in hipomania are quality_medium compared to the state of euthymia.;0.0;2.0;only spectralflux - Interval
+Minority of loudness_low calls in hipomania are quality_medium compared to the state of euthymia.;1.0;2.0;only spectralflux - Interval
+Most loudness_low calls in hipomania are quality_high compared to the state of euthymia.;0.0;2.0;only spectralflux - Interval
+Minority of loudness_low calls in hipomania are quality_high compared to the state of euthymia.;1.0;2.0;only spectralflux - Interval
+Most loudness_medium calls in hipomania are spectrum_low compared to the state of euthymia.;1.0;2.0;only spectralflux - Interval
+Minority of loudness_medium calls in hipomania are spectrum_low compared to the state of euthymia.;0.0;2.0;only spectralflux - Interval
+Most loudness_medium calls in hipomania are spectrum_medium compared to the state of euthymia.;1.0;2.0;only spectralflux - Interval
+Minority of loudness_medium calls in hipomania are spectrum_medium compared to the state of euthymia.;0.0;2.0;only spectralflux - Interval
+Most loudness_medium calls in hipomania are spectrum_high compared to the state of euthymia.;0.0;2.0;only spectralflux - Interval
+Minority of loudness_medium calls in hipomania are spectrum_high compared to the state of euthymia.;1.0;2.0;only spectralflux - Interval
+Most loudness_medium calls in hipomania are tone_low compared to the state of euthymia.;0.0;2.0;only spectralflux - Interval
+Minority of loudness_medium calls in hipomania are tone_low compared to the state of euthymia.;1.0;2.0;only spectralflux - Interval
+Most loudness_medium calls in hipomania are tone_medium compared to the state of euthymia.;0.0;2.0;only spectralflux - Interval
+Minority of loudness_medium calls in hipomania are tone_medium compared to the state of euthymia.;1.0;2.0;only spectralflux - Interval
+Most loudness_medium calls in hipomania are tone_high compared to the state of euthymia.;0.0;2.0;only spectralflux - Interval
+Minority of loudness_medium calls in hipomania are tone_high compared to the state of euthymia.;1.0;2.0;only spectralflux - Interval
+Most loudness_medium calls in hipomania are quality_low compared to the state of euthymia.;0.0;2.0;only spectralflux - Interval
+Minority of loudness_medium calls in hipomania are quality_low compared to the state of euthymia.;1.0;2.0;only spectralflux - Interval
+Most loudness_medium calls in hipomania are quality_medium compared to the state of euthymia.;0.0;2.0;only spectralflux - Interval
+Minority of loudness_medium calls in hipomania are quality_medium compared to the state of euthymia.;1.0;2.0;only spectralflux - Interval
+Most loudness_medium calls in hipomania are quality_high compared to the state of euthymia.;1.0;2.0;only spectralflux - Interval
+Minority of loudness_medium calls in hipomania are quality_high compared to the state of euthymia.;0.0;2.0;only spectralflux - Interval
+Most loudness_high calls in hipomania are spectrum_low compared to the state of euthymia.;0.0;2.0;only spectralflux - Interval
+Minority of loudness_high calls in hipomania are spectrum_low compared to the state of euthymia.;1.0;2.0;only spectralflux - Interval
+Most loudness_high calls in hipomania are spectrum_medium compared to the state of euthymia.;0.0;2.0;only spectralflux - Interval
+Minority of loudness_high calls in hipomania are spectrum_medium compared to the state of euthymia.;1.0;2.0;only spectralflux - Interval
+Most loudness_high calls in hipomania are spectrum_high compared to the state of euthymia.;1.0;2.0;only spectralflux - Interval
+Minority of loudness_high calls in hipomania are spectrum_high compared to the state of euthymia.;0.0;2.0;only spectralflux - Interval
+Most loudness_high calls in hipomania are tone_low compared to the state of euthymia.;0.0;2.0;only spectralflux - Interval
+Minority of loudness_high calls in hipomania are tone_low compared to the state of euthymia.;1.0;2.0;only spectralflux - Interval
+Most loudness_high calls in hipomania are tone_medium compared to the state of euthymia.;0.0;2.0;only spectralflux - Interval
+Minority of loudness_high calls in hipomania are tone_medium compared to the state of euthymia.;1.0;2.0;only spectralflux - Interval
+Most loudness_high calls in hipomania are tone_high compared to the state of euthymia.;0.0;2.0;only spectralflux - Interval
+Minority of loudness_high calls in hipomania are tone_high compared to the state of euthymia.;1.0;2.0;only spectralflux - Interval
+Most loudness_high calls in hipomania are quality_low compared to the state of euthymia.;0.0;2.0;only spectralflux - Interval
+Minority of loudness_high calls in hipomania are quality_low compared to the state of euthymia.;1.0;2.0;only spectralflux - Interval
+Most loudness_high calls in hipomania are quality_medium compared to the state of euthymia.;0.0;2.0;only spectralflux - Interval
+Minority of loudness_high calls in hipomania are quality_medium compared to the state of euthymia.;1.0;2.0;only spectralflux - Interval
+Most loudness_high calls in hipomania are quality_high compared to the state of euthymia.;1.0;2.0;only spectralflux - Interval
+Minority of loudness_high calls in hipomania are quality_high compared to the state of euthymia.;0.0;2.0;only spectralflux - Interval
+Most tone_low calls in hipomania are spectrum_low compared to the state of euthymia.;1.0;2.0;only spectralflux - Interval
+Minority of tone_low calls in hipomania are spectrum_low compared to the state of euthymia.;0.0;2.0;only spectralflux - Interval
+Most tone_low calls in hipomania are spectrum_medium compared to the state of euthymia.;0.0;2.0;only spectralflux - Interval
+Minority of tone_low calls in hipomania are spectrum_medium compared to the state of euthymia.;1.0;2.0;only spectralflux - Interval
+Most tone_low calls in hipomania are spectrum_high compared to the state of euthymia.;0.0;2.0;only spectralflux - Interval
+Minority of tone_low calls in hipomania are spectrum_high compared to the state of euthymia.;1.0;2.0;only spectralflux - Interval
+Most tone_low calls in hipomania are loudness_low compared to the state of euthymia.;1.0;2.0;only spectralflux - Interval
+Minority tone_low calls in hipomania are loudness_low compared to the state of euthymia.;0.0;2.0;only spectralflux - Interval
+Most tone_low calls in hipomania are loudness_medium compared to the state of euthymia.;0.0;2.0;only spectralflux - Interval
+Minority tone_low calls in hipomania are loudness_medium compared to the state of euthymia.;1.0;2.0;only spectralflux - Interval
+Most tone_low calls in hipomania are loudness_high compared to the state of euthymia.;0.0;2.0;only spectralflux - Interval
+Minority tone_low calls in hipomania are loudness_high compared to the state of euthymia.;1.0;2.0;only spectralflux - Interval
+Most tone_low calls in hipomania are quality_low compared to the state of euthymia.;1.0;2.0;only spectralflux - Interval
+Minority of tone_low calls in hipomania are quality_low compared to the state of euthymia.;0.0;2.0;only spectralflux - Interval
+Most tone_low calls in hipomania are quality_medium compared to the state of euthymia.;0.0;2.0;only spectralflux - Interval
+Minority of tone_low calls in hipomania are quality_medium compared to the state of euthymia.;1.0;2.0;only spectralflux - Interval
+Most tone_low calls in hipomania are quality_high compared to the state of euthymia.;0.0;2.0;only spectralflux - Interval
+Minority of tone_low calls in hipomania are quality_high compared to the state of euthymia.;1.0;2.0;only spectralflux - Interval
+Most tone_medium calls in hipomania are spectrum_low compared to the state of euthymia.;1.0;2.0;only spectralflux - Interval
+Minority of tone_medium calls in hipomania are spectrum_low compared to the state of euthymia.;0.0;2.0;only spectralflux - Interval
+Most tone_medium calls in hipomania are spectrum_medium compared to the state of euthymia.;0.0;2.0;only spectralflux - Interval
+Minority of tone_medium calls in hipomania are spectrum_medium compared to the state of euthymia.;1.0;2.0;only spectralflux - Interval
+Most tone_medium calls in hipomania are spectrum_high compared to the state of euthymia.;0.0;2.0;only spectralflux - Interval
+Minority of tone_medium calls in hipomania are spectrum_high compared to the state of euthymia.;1.0;2.0;only spectralflux - Interval
+Most tone_medium calls in hipomania are loudness_low compared to the state of euthymia.;1.0;2.0;only spectralflux - Interval
+Minority tone_medium calls in hipomania are loudness_low compared to the state of euthymia.;0.0;2.0;only spectralflux - Interval
+Most tone_medium calls in hipomania are loudness_medium compared to the state of euthymia.;0.0;2.0;only spectralflux - Interval
+Minority tone_medium calls in hipomania are loudness_medium compared to the state of euthymia.;1.0;2.0;only spectralflux - Interval
+Most tone_medium calls in hipomania are loudness_high compared to the state of euthymia.;0.0;2.0;only spectralflux - Interval
+Minority tone_medium calls in hipomania are loudness_high compared to the state of euthymia.;1.0;2.0;only spectralflux - Interval
+Most tone_medium calls in hipomania are quality_low compared to the state of euthymia.;1.0;2.0;only spectralflux - Interval
+Minority of tone_medium calls in hipomania are quality_low compared to the state of euthymia.;0.0;2.0;only spectralflux - Interval
+Most tone_medium calls in hipomania are quality_medium compared to the state of euthymia.;0.0;2.0;only spectralflux - Interval
+Minority of tone_medium calls in hipomania are quality_medium compared to the state of euthymia.;1.0;2.0;only spectralflux - Interval
+Most tone_medium calls in hipomania are quality_high compared to the state of euthymia.;0.0;2.0;only spectralflux - Interval
+Minority of tone_medium calls in hipomania are quality_high compared to the state of euthymia.;1.0;2.0;only spectralflux - Interval
+Most tone_high calls in hipomania are spectrum_low compared to the state of euthymia.;1.0;2.0;only spectralflux - Interval
+Minority of tone_high calls in hipomania are spectrum_low compared to the state of euthymia.;0.0;2.0;only spectralflux - Interval
+Most tone_high calls in hipomania are spectrum_medium compared to the state of euthymia.;0.0;2.0;only spectralflux - Interval
+Minority of tone_high calls in hipomania are spectrum_medium compared to the state of euthymia.;1.0;2.0;only spectralflux - Interval
+Most tone_high calls in hipomania are spectrum_high compared to the state of euthymia.;0.0;2.0;only spectralflux - Interval
+Minority of tone_high calls in hipomania are spectrum_high compared to the state of euthymia.;1.0;2.0;only spectralflux - Interval
+Most tone_high calls in hipomania are loudness_low compared to the state of euthymia.;1.0;2.0;only spectralflux - Interval
+Minority tone_high calls in hipomania are loudness_low compared to the state of euthymia.;0.0;2.0;only spectralflux - Interval
+Most tone_high calls in hipomania are loudness_medium compared to the state of euthymia.;0.0;2.0;only spectralflux - Interval
+Minority tone_high calls in hipomania are loudness_medium compared to the state of euthymia.;1.0;2.0;only spectralflux - Interval
+Most tone_high calls in hipomania are loudness_high compared to the state of euthymia.;0.0;2.0;only spectralflux - Interval
+Minority tone_high calls in hipomania are loudness_high compared to the state of euthymia.;1.0;2.0;only spectralflux - Interval
+Most tone_high calls in hipomania are quality_low compared to the state of euthymia.;1.0;2.0;only spectralflux - Interval
+Minority of tone_high calls in hipomania are quality_low compared to the state of euthymia.;0.0;2.0;only spectralflux - Interval
+Most tone_high calls in hipomania are quality_medium compared to the state of euthymia.;0.0;2.0;only spectralflux - Interval
+Minority of tone_high calls in hipomania are quality_medium compared to the state of euthymia.;1.0;2.0;only spectralflux - Interval
+Most tone_high calls in hipomania are quality_high compared to the state of euthymia.;0.0;2.0;only spectralflux - Interval
+Minority of tone_high calls in hipomania are quality_high compared to the state of euthymia.;1.0;2.0;only spectralflux - Interval
+Most spectrum_low calls in hipomania are tone_low compared to the state of euthymia.;0.0;2.0;only spectralflux - Interval
+Minority of spectrum_low calls in hipomania are tone_low compared to the state of euthymia.;1.0;2.0;only spectralflux - Interval
+Most spectrum_low calls in hipomania are tone_medium compared to the state of euthymia.;0.0;2.0;only spectralflux - Interval
+Minority of spectrum_low calls in hipomania are tone_medium compared to the state of euthymia.;1.0;2.0;only spectralflux - Interval
+Most spectrum_low calls in hipomania are tone_high compared to the state of euthymia.;0.0;2.0;only spectralflux - Interval
+Minority of spectrum_low calls in hipomania are tone_high compared to the state of euthymia.;1.0;2.0;only spectralflux - Interval
+Most spectrum_low calls in hipomania are loudness_low compared to the state of euthymia.;1.0;2.0;only spectralflux - Interval
+Minority of spectrum_low calls in hipomania are loudness_low compared to the state of euthymia.;0.0;2.0;only spectralflux - Interval
+Most spectrum_low calls in hipomania are loudness_medium compared to the state of euthymia.;0.0;2.0;only spectralflux - Interval
+Minority of spectrum_low calls in hipomania are loudness_medium compared to the state of euthymia.;1.0;2.0;only spectralflux - Interval
+Most spectrum_low calls in hipomania are loudness_high compared to the state of euthymia.;0.0;2.0;only spectralflux - Interval
+Minority of spectrum_low calls in hipomania are loudness_high compared to the state of euthymia.;1.0;2.0;only spectralflux - Interval
+Most spectrum_low calls in hipomania are quality_low compared to the state of euthymia.;0.7163700871622293;2.0;only spectralflux - Interval
+Minority of spectrum_low calls in hipomania are quality_low compared to the state of euthymia.;0.0;2.0;only spectralflux - Interval
+Most spectrum_low calls in hipomania are quality_medium compared to the state of euthymia.;0.0;2.0;only spectralflux - Interval
+Minority of spectrum_low calls in hipomania are quality_medium compared to the state of euthymia.;1.0;2.0;only spectralflux - Interval
+Most spectrum_low calls in hipomania are quality_high compared to the state of euthymia.;0.0;2.0;only spectralflux - Interval
+Minority of spectrum_low calls in hipomania are quality_high compared to the state of euthymia.;1.0;2.0;only spectralflux - Interval
+Most spectrum_medium calls in hipomania are tone_low compared to the state of euthymia.;0.0;2.0;only spectralflux - Interval
+Minority of spectrum_medium calls in hipomania are tone_low compared to the state of euthymia.;1.0;2.0;only spectralflux - Interval
+Most spectrum_medium calls in hipomania are tone_medium compared to the state of euthymia.;0.0;2.0;only spectralflux - Interval
+Minority of spectrum_medium calls in hipomania are tone_medium compared to the state of euthymia.;1.0;2.0;only spectralflux - Interval
+Most spectrum_medium calls in hipomania are tone_high compared to the state of euthymia.;0.0;2.0;only spectralflux - Interval
+Minority of spectrum_medium calls in hipomania are tone_high compared to the state of euthymia.;1.0;2.0;only spectralflux - Interval
+Most spectrum_medium calls in hipomania are loudness_low compared to the state of euthymia.;0.0;2.0;only spectralflux - Interval
+Minority of spectrum_medium calls in hipomania are loudness_low compared to the state of euthymia.;1.0;2.0;only spectralflux - Interval
+Most spectrum_medium calls in hipomania are loudness_medium compared to the state of euthymia.;0.0;2.0;only spectralflux - Interval
+Minority of spectrum_medium calls in hipomania are loudness_medium compared to the state of euthymia.;1.0;2.0;only spectralflux - Interval
+Most spectrum_medium calls in hipomania are loudness_high compared to the state of euthymia.;0.0;2.0;only spectralflux - Interval
+Minority of spectrum_medium calls in hipomania are loudness_high compared to the state of euthymia.;1.0;2.0;only spectralflux - Interval
+Most spectrum_medium calls in hipomania are quality_low compared to the state of euthymia.;0.0;2.0;only spectralflux - Interval
+Minority of spectrum_medium calls in hipomania are quality_low compared to the state of euthymia.;1.0;2.0;only spectralflux - Interval
+Most spectrum_medium calls in hipomania are quality_medium compared to the state of euthymia.;0.0;2.0;only spectralflux - Interval
+Minority of spectrum_medium calls in hipomania are quality_medium compared to the state of euthymia.;1.0;2.0;only spectralflux - Interval
+Most spectrum_medium calls in hipomania are quality_high compared to the state of euthymia.;1.0;2.0;only spectralflux - Interval
+Minority of spectrum_medium calls in hipomania are quality_high compared to the state of euthymia.;0.0;2.0;only spectralflux - Interval
+Most spectrum_high calls in hipomania are tone_low compared to the state of euthymia.;0.0;2.0;only spectralflux - Interval
+Minority of spectrum_high calls in hipomania are tone_low compared to the state of euthymia.;1.0;2.0;only spectralflux - Interval
+Most spectrum_high calls in hipomania are tone_medium compared to the state of euthymia.;0.0;2.0;only spectralflux - Interval
+Minority of spectrum_high calls in hipomania are tone_medium compared to the state of euthymia.;1.0;2.0;only spectralflux - Interval
+Most spectrum_high calls in hipomania are tone_high compared to the state of euthymia.;0.0;2.0;only spectralflux - Interval
+Minority of spectrum_high calls in hipomania are tone_high compared to the state of euthymia.;1.0;2.0;only spectralflux - Interval
+Most spectrum_high calls in hipomania are loudness_low compared to the state of euthymia.;0.0;2.0;only spectralflux - Interval
+Minority of spectrum_high calls in hipomania are loudness_low compared to the state of euthymia.;1.0;2.0;only spectralflux - Interval
+Most spectrum_high calls in hipomania are loudness_medium compared to the state of euthymia.;0.0;2.0;only spectralflux - Interval
+Minority of spectrum_high calls in hipomania are loudness_medium compared to the state of euthymia.;1.0;2.0;only spectralflux - Interval
+Most spectrum_high calls in hipomania are loudness_high compared to the state of euthymia.;0.0;2.0;only spectralflux - Interval
+Minority of spectrum_high calls in hipomania are loudness_high compared to the state of euthymia.;0.6085438045412468;2.0;only spectralflux - Interval
+Most spectrum_high calls in hipomania are quality_low compared to the state of euthymia.;0.0;2.0;only spectralflux - Interval
+Minority of spectrum_high calls in hipomania are quality_low compared to the state of euthymia.;1.0;2.0;only spectralflux - Interval
+Most spectrum_high calls in hipomania are quality_medium compared to the state of euthymia.;0.0;2.0;only spectralflux - Interval
+Minority of spectrum_high calls in hipomania are quality_medium compared to the state of euthymia.;1.0;2.0;only spectralflux - Interval
+Most spectrum_high calls in hipomania are quality_high compared to the state of euthymia.;1.0;2.0;only spectralflux - Interval
+Minority of spectrum_high calls in hipomania are quality_high compared to the state of euthymia.;0.0;2.0;only spectralflux - Interval
+Most quality_low calls in hipomania are tone_low compared to the state of euthymia.;0.0;2.0;only spectralflux - Interval
+Minority of quality_low calls in hipomania are tone_low compared to the state of euthymia.;1.0;2.0;only spectralflux - Interval
+Most quality_low calls in hipomania are tone_medium compared to the state of euthymia.;0.0;2.0;only spectralflux - Interval
+Minority of quality_low calls in hipomania are tone_medium compared to the state of euthymia.;1.0;2.0;only spectralflux - Interval
+Most quality_low calls in hipomania are tone_high compared to the state of euthymia.;0.0;2.0;only spectralflux - Interval
+Minority of quality_low calls in hipomania are tone_high compared to the state of euthymia.;1.0;2.0;only spectralflux - Interval
+Most quality_low calls in hipomania are loudness_low compared to the state of euthymia.;1.0;2.0;only spectralflux - Interval
+Minority of quality_low calls in hipomania are loudness_low compared to the state of euthymia.;0.0;2.0;only spectralflux - Interval
+Most quality_low calls in hipomania are loudness_medium compared to the state of euthymia.;0.0;2.0;only spectralflux - Interval
+Minority of quality_low calls in hipomania are loudness_medium compared to the state of euthymia.;1.0;2.0;only spectralflux - Interval
+Most quality_low calls in hipomania are loudness_high compared to the state of euthymia.;0.0;2.0;only spectralflux - Interval
+Minority of quality_low calls in hipomania are loudness_high compared to the state of euthymia.;1.0;2.0;only spectralflux - Interval
+Most quality_low calls in hipomania are spectrum_low compared to the state of euthymia.;1.0;2.0;only spectralflux - Interval
+Minority of quality_low calls in hipomania are spectrum_low compared to the state of euthymia.;0.0;2.0;only spectralflux - Interval
+Most quality_low calls in hipomania are spectrum_medium compared to the state of euthymia.;0.0;2.0;only spectralflux - Interval
+Minority of quality_low calls in hipomania are spectrum_medium compared to the state of euthymia.;1.0;2.0;only spectralflux - Interval
+Most quality_low calls in hipomania are spectrum_high compared to the state of euthymia.;0.0;2.0;only spectralflux - Interval
+Minority of quality_low calls in hipomania are spectrum_high compared to the state of euthymia.;1.0;2.0;only spectralflux - Interval
+Most quality_medium calls in hipomania are tone_low compared to the state of euthymia.;0.0;2.0;only spectralflux - Interval
+Minority of quality_medium calls in hipomania are tone_low compared to the state of euthymia.;1.0;2.0;only spectralflux - Interval
+Most quality_medium calls in hipomania are tone_medium compared to the state of euthymia.;0.0;2.0;only spectralflux - Interval
+Minority of quality_medium calls in hipomania are tone_medium compared to the state of euthymia.;1.0;2.0;only spectralflux - Interval
+Most quality_medium calls in hipomania are tone_high compared to the state of euthymia.;0.0;2.0;only spectralflux - Interval
+Minority of quality_medium calls in hipomania are tone_high compared to the state of euthymia.;1.0;2.0;only spectralflux - Interval
+Most quality_medium calls in hipomania are loudness_low compared to the state of euthymia.;1.0;2.0;only spectralflux - Interval
+Minority of quality_medium calls in hipomania are loudness_low compared to the state of euthymia.;0.0;2.0;only spectralflux - Interval
+Most quality_medium calls in hipomania are loudness_medium compared to the state of euthymia.;0.0;2.0;only spectralflux - Interval
+Minority of quality_medium calls in hipomania are loudness_medium compared to the state of euthymia.;1.0;2.0;only spectralflux - Interval
+Most quality_medium calls in hipomania are loudness_high compared to the state of euthymia.;0.0;2.0;only spectralflux - Interval
+Minority of quality_medium calls in hipomania are loudness_high compared to the state of euthymia.;1.0;2.0;only spectralflux - Interval
+Most quality_medium calls in hipomania are spectrum_low compared to the state of euthymia.;1.0;2.0;only spectralflux - Interval
+Minority of quality_medium calls in hipomania are spectrum_low compared to the state of euthymia.;0.0;2.0;only spectralflux - Interval
+Most quality_medium calls in hipomania are spectrum_medium compared to the state of euthymia.;0.0;2.0;only spectralflux - Interval
+Minority of quality_medium calls in hipomania are spectrum_medium compared to the state of euthymia.;1.0;2.0;only spectralflux - Interval
+Most quality_medium calls in hipomania are spectrum_high compared to the state of euthymia.;0.0;2.0;only spectralflux - Interval
+Minority of quality_medium calls in hipomania are spectrum_high compared to the state of euthymia.;1.0;2.0;only spectralflux - Interval
+Most quality_high calls in hipomania are tone_low compared to the state of euthymia.;0.0;2.0;only spectralflux - Interval
+Minority of quality_high calls in hipomania are tone_low compared to the state of euthymia.;1.0;2.0;only spectralflux - Interval
+Most quality_high calls in hipomania are tone_medium compared to the state of euthymia.;0.0;2.0;only spectralflux - Interval
+Minority of quality_high calls in hipomania are tone_medium compared to the state of euthymia.;1.0;2.0;only spectralflux - Interval
+Most quality_high calls in hipomania are tone_high compared to the state of euthymia.;0.0;2.0;only spectralflux - Interval
+Minority of quality_high calls in hipomania are tone_high compared to the state of euthymia.;1.0;2.0;only spectralflux - Interval
+Most quality_high calls in hipomania are loudness_low compared to the state of euthymia.;0.0;2.0;only spectralflux - Interval
+Minority of quality_high calls in hipomania are loudness_low compared to the state of euthymia.;1.0;2.0;only spectralflux - Interval
+Most quality_high calls in hipomania are loudness_medium compared to the state of euthymia.;0.0;2.0;only spectralflux - Interval
+Minority of quality_high calls in hipomania are loudness_medium compared to the state of euthymia.;1.0;2.0;only spectralflux - Interval
+Most quality_high calls in hipomania are loudness_high compared to the state of euthymia.;0.0;2.0;only spectralflux - Interval
+Minority of quality_high calls in hipomania are loudness_high compared to the state of euthymia.;1.0;2.0;only spectralflux - Interval
+Most quality_high calls in hipomania are spectrum_low compared to the state of euthymia.;0.0;2.0;only spectralflux - Interval
+Minority of quality_high calls in hipomania are spectrum_low compared to the state of euthymia.;1.0;2.0;only spectralflux - Interval
+Most quality_high calls in hipomania are spectrum_medium compared to the state of euthymia.;0.0;2.0;only spectralflux - Interval
+Minority of quality_high calls in hipomania are spectrum_medium compared to the state of euthymia.;0.852333051440828;2.0;only spectralflux - Interval
+Most quality_high calls in hipomania are spectrum_high compared to the state of euthymia.;1.0;2.0;only spectralflux - Interval
+Minority of quality_high calls in hipomania are spectrum_high compared to the state of euthymia.;0.0;2.0;only spectralflux - Interval
